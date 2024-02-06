@@ -1,2 +1,3 @@
-# ViceCityStories
-A conversation of Vice City Stories to open.mp.
+# Vice City Stories
+
+A fruit of love, labour, blood, sweat and tears. Vice City Stories converted to open.mp
