@@ -1,5 +1,8 @@
 # Vice City Stories for open.mp
 
+[![License](https://img.shields.io/badge/license-GPLv3-blue.svg)](LICENSE)
+
+
 Vice City Stories converted to **open.mp** by **spicybung**.
 
 ## Configuration
