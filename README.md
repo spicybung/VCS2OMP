@@ -1,24 +1,32 @@
-# Vice City Stories
+# Vice City Stories for open.mp
 
-Vice City Stories converted to open.mp by spicybung.
+Vice City Stories converted to **open.mp** by **spicybung**.
 
-How to configure:
+## Configuration
 
-config.json setup:
-Open config.json and find the pawn section.
-Add the filterscript as a side script. Do not include the .amx extension.
+Open your `config.json` file and locate the `"pawn"` section.
 
-Example:
+Add the filterscript to the `"side_scripts"` array.
 
-"pawn": {
-    "legacy_plugins": [
-        "streamer",
-        "sscanf"
-    ],
-    "main_scripts": [
-        "your_gamemode 1"
-    ],
-    "side_scripts": [
-        "filterscripts/VCS2OMP"
-    ]
+> **Note:** Do **not** include the `.amx` extension.
+
+### Example
+
+```json
+{
+    "pawn": {
+        "legacy_plugins": [
+            "streamer",
+            "sscanf"
+        ],
+        "main_scripts": [
+            "your_gamemode 1"
+        ],
+        "side_scripts": [
+            "filterscripts/VCS2OMP"
+        ]
+    }
 }
+```
+
+After saving `config.json`, restart your open.mp server. The VCS2OMP filterscript will be loaded automatically on startup.
