@@ -34,7 +34,7 @@ Add the filterscript to the `"side_scripts"` array.
 
 After saving `config.json`, restart your open.mp server. The VCS2OMP filterscript will be loaded automatically on startup.
 
-### Acknowledgements
+## Acknowledgements
 
 + The open.mp developer team, for their work in making a new SAMP, and inspiration
 + The GTA Modding community
