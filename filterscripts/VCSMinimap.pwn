@@ -1,3 +1,23 @@
+//   //   //   //   //   //   //   //   //   //   //   //   //   //   //   //   //   //   //   //   //   // 
+//                                                                                                       
+//    ##:  :##    :####:   :####:              .-''-.       .####.   ###  ###  ######:  
+//    ##    ##    ######  :######            .' .-.  )      ######   ###  ###  #######: 
+//    :##  ##:  :##:  .#  ##:  :#          / .'  / /.      :##  ##:  ###::###  ##   :## 
+//    :##  ##:  ##        ##              (_/   / /        ##:  :##  ###  ###  ##    ## 
+//     ## .##   ##.       ###:                 / /         ##    ##  ## ## ##  ##   :## 
+//     ##::##   ##        :#####:             / /          ##    ##  ##:##:##  #######: 
+//     ##::##   ##         .#####:           . '           ##    ##  ##.##.##  ######:  
+//     :####:   ##.           :###         / /    _.-')    ##    ##  ## ## ##  ##       
+//     .####.   ##              ##       .' '  _.'.-''     ##:  :##  ##    ##  ##       
+//      ####    :##:  .#  #:.  :##     /  /.-'_.'          :##  ##:  ##    ##  ##       
+//      ####      ######  #######:    /    _.'              ######   ##    ##  ##       
+//       ##       :####:  .#####:    ( _.-'                 .####.   ##    ##  ##       
+//                                                                                                       
+//   //   //   //   //   //   //   //   //   //   //   //   //   //   //   //   //   //   //   //   //   // 
+//                                        v1.0.5b
+//                                        Minimap
+//                                   author: spicybung
+
 #define FILTERSCRIPT
 
 #include <open.mp>
@@ -9,8 +29,8 @@
 #define VCS_RADAR_ROWS                    (8)
 
 #define VCS_RADAR_LOADER_DFF              "vcs/DFF/cpsmallred.dff"
-#define VCS_RADAR_TXD_DIRECTORY           "vcs/radarvcs"
-#define VCS_ICON_TXD_PATH                 "vcs/radarvcs/player_icons.txd"
+#define VCS_RADAR_TXD_DIRECTORY           "vcs/RADARVCS"
+#define VCS_ICON_TXD_PATH                 "vcs/RADARVCS/player_icons.txd"
 
 #define VCS_MAP_MIN_X                     (4000.0)
 #define VCS_MAP_MAX_X                     (8000.0)
