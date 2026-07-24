@@ -26,13 +26,14 @@ Add the filterscript to the `"side_scripts"` array.
             "your_gamemode 1"
         ],
         "side_scripts": [
-            "filterscripts/VCS2OMP"
+            "filterscripts/VCS2OMP",
+	        "filterscripts/VCSMinimap"
         ]
     }
 }
 ```
 
-After saving `config.json`, restart your open.mp server. The VCS2OMP filterscript will be loaded automatically on startup.
+After saving `config.json`, restart your open.mp server. The VCS2OMP & VCSMinimap filterscripts will be loaded automatically on startup.
 
 ## Acknowledgements
 
