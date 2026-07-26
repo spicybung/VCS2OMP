@@ -304,7 +304,6 @@ AddVCSModels()
     AddSimpleModel(-1, 19379, -1096, "vcs/DFF/veg_palm04.dff", "vcs/TXD/new_palm.txd");  // veg_palm04
     AddSimpleModel(-1, 19379, -1097, "vcs/DFF/veg_palmkb7.dff", "vcs/TXD/new_palm.txd");  // veg_palmkb7
     AddSimpleModel(-1, 19379, -1098, "vcs/DFF/veg_palmkb8.dff", "vcs/TXD/new_palm.txd");  // veg_palmkb8
-    AddSimpleModel(-1, 19379, -1099, "vcs/DFF/MTraffic1.dff", "vcs/TXD/mitraffic.txd");  // MTraffic1
     AddSimpleModel(-1, 19379, -1100, "vcs/DFF/lounger1.dff", "vcs/TXD/stuffgen.txd");  // lounger1
     AddSimpleModel(-1, 19379, -1101, "vcs/DFF/CJ_Dumpster2.dff", "vcs/TXD/CJ_BINS2.txd");  // CJ_Dumpster2
     AddSimpleModel(-1, 19379, -1102, "vcs/DFF/Fan1.dff", "vcs/TXD/Particle_HM128.txd");  // Fan1
@@ -1202,53 +1201,53 @@ AddVCSModels()
     AddSimpleModel(-1, 19379, -1994, "vcs/DFF/jm_umb4_exit01.dff", "vcs/TXD/hN_stuff.txd");  // jm_umb4_exit01
     AddSimpleModel(-1, 19379, -1995, "vcs/DFF/jm_umb4_exit02.dff", "vcs/TXD/hN_stuff.txd");  // jm_umb4_exit02
     AddSimpleModel(-1, 19379, -1996, "vcs/DFF/jm_umb4_shut.dff", "vcs/TXD/hN_stuff.txd");  // jm_umb4_shut
-    AddSimpleModel(-1, 19379, -1997, "vcs/DFF/seabed01.dff", "vcs/TXD/underworld.txd");  // seabed01
-    AddSimpleModel(-1, 19379, -1998, "vcs/DFF/seabed02.dff", "vcs/TXD/underworld.txd");  // seabed02
-    AddSimpleModel(-1, 19379, -1999, "vcs/DFF/seabed03.dff", "vcs/TXD/underworld.txd");  // seabed03
-    AddSimpleModel(-1, 19379, -2000, "vcs/DFF/seabed04.dff", "vcs/TXD/underworld.txd");  // seabed04
-    AddSimpleModel(-1, 19379, -2001, "vcs/DFF/seabed05.dff", "vcs/TXD/underworld.txd");  // seabed05
-    AddSimpleModel(-1, 19379, -2002, "vcs/DFF/seabed06.dff", "vcs/TXD/underworld.txd");  // seabed06
-    AddSimpleModel(-1, 19379, -2003, "vcs/DFF/seabed07.dff", "vcs/TXD/underworld.txd");  // seabed07
-    AddSimpleModel(-1, 19379, -2004, "vcs/DFF/seabed08.dff", "vcs/TXD/underworld.txd");  // seabed08
-    AddSimpleModel(-1, 19379, -2005, "vcs/DFF/seabed09.dff", "vcs/TXD/underworld.txd");  // seabed09
-    AddSimpleModel(-1, 19379, -2006, "vcs/DFF/seabed10.dff", "vcs/TXD/underworld.txd");  // seabed10
-    AddSimpleModel(-1, 19379, -2007, "vcs/DFF/seabed11.dff", "vcs/TXD/underworld.txd");  // seabed11
-    AddSimpleModel(-1, 19379, -2008, "vcs/DFF/seabed12.dff", "vcs/TXD/underworld.txd");  // seabed12
-    AddSimpleModel(-1, 19379, -2009, "vcs/DFF/seabed13.dff", "vcs/TXD/underworld.txd");  // seabed13
-    AddSimpleModel(-1, 19379, -2010, "vcs/DFF/seabed14.dff", "vcs/TXD/underworld.txd");  // seabed14
-    AddSimpleModel(-1, 19379, -2011, "vcs/DFF/seabed15.dff", "vcs/TXD/underworld.txd");  // seabed15
-    AddSimpleModel(-1, 19379, -2012, "vcs/DFF/seabed16.dff", "vcs/TXD/underworld.txd");  // seabed16
-    AddSimpleModel(-1, 19379, -2013, "vcs/DFF/seabed17.dff", "vcs/TXD/underworld.txd");  // seabed17
-    AddSimpleModel(-1, 19379, -2014, "vcs/DFF/seabed18.dff", "vcs/TXD/underworld.txd");  // seabed18
-    AddSimpleModel(-1, 19379, -2015, "vcs/DFF/seabed19.dff", "vcs/TXD/underworld.txd");  // seabed19
-    AddSimpleModel(-1, 19379, -2016, "vcs/DFF/seabed20.dff", "vcs/TXD/underworld.txd");  // seabed20
-    AddSimpleModel(-1, 19379, -2017, "vcs/DFF/seabed21.dff", "vcs/TXD/underworld.txd");  // seabed21
-    AddSimpleModel(-1, 19379, -2018, "vcs/DFF/seabed22.dff", "vcs/TXD/underworld.txd");  // seabed22
-    AddSimpleModel(-1, 19379, -2019, "vcs/DFF/seabed23.dff", "vcs/TXD/underworld.txd");  // seabed23
-    AddSimpleModel(-1, 19379, -2020, "vcs/DFF/seabed24.dff", "vcs/TXD/underworld.txd");  // seabed24
-    AddSimpleModel(-1, 19379, -2021, "vcs/DFF/seabed25.dff", "vcs/TXD/underworld.txd");  // seabed25
-    AddSimpleModel(-1, 19379, -2022, "vcs/DFF/seabed26.dff", "vcs/TXD/underworld.txd");  // seabed26
-    AddSimpleModel(-1, 19379, -2023, "vcs/DFF/seabed_shallow01.dff", "vcs/TXD/underworld.txd");  // seabed_shallow01
-    AddSimpleModel(-1, 19379, -2024, "vcs/DFF/seabed_shallow02.dff", "vcs/TXD/underworld.txd");  // seabed_shallow02
-    AddSimpleModel(-1, 19379, -2025, "vcs/DFF/seabed_shallow03.dff", "vcs/TXD/underworld.txd");  // seabed_shallow03
-    AddSimpleModel(-1, 19379, -2026, "vcs/DFF/seabed_shallow04.dff", "vcs/TXD/underworld.txd");  // seabed_shallow04
-    AddSimpleModel(-1, 19379, -2027, "vcs/DFF/seabed_shallow05.dff", "vcs/TXD/underworld.txd");  // seabed_shallow05
-    AddSimpleModel(-1, 19379, -2028, "vcs/DFF/seabed_shallow06.dff", "vcs/TXD/underworld.txd");  // seabed_shallow06
-    AddSimpleModel(-1, 19379, -2029, "vcs/DFF/seabed_shallow07.dff", "vcs/TXD/underworld.txd");  // seabed_shallow07
-    AddSimpleModel(-1, 19379, -2030, "vcs/DFF/seabed_shallow08.dff", "vcs/TXD/underworld.txd");  // seabed_shallow08
-    AddSimpleModel(-1, 19379, -2031, "vcs/DFF/seabed27.dff", "vcs/TXD/underworld.txd");  // seabed27
-    AddSimpleModel(-1, 19379, -2032, "vcs/DFF/seabed28.dff", "vcs/TXD/underworld.txd");  // seabed28
-    AddSimpleModel(-1, 19379, -2033, "vcs/DFF/seabed29.dff", "vcs/TXD/underworld.txd");  // seabed29
-    AddSimpleModel(-1, 19379, -2034, "vcs/DFF/seabed30.dff", "vcs/TXD/underworld.txd");  // seabed30
-    AddSimpleModel(-1, 19379, -2035, "vcs/DFF/seabed31.dff", "vcs/TXD/underworld.txd");  // seabed31
-    AddSimpleModel(-1, 19379, -2036, "vcs/DFF/seabed32.dff", "vcs/TXD/underworld.txd");  // seabed32
-    AddSimpleModel(-1, 19379, -2037, "vcs/DFF/seabed33.dff", "vcs/TXD/underworld.txd");  // seabed33
-    AddSimpleModel(-1, 19379, -2038, "vcs/DFF/seabed34.dff", "vcs/TXD/underworld.txd");  // seabed34
-    AddSimpleModel(-1, 19379, -2039, "vcs/DFF/seabed35.dff", "vcs/TXD/underworld.txd");  // seabed35
-    AddSimpleModel(-1, 19379, -2040, "vcs/DFF/seabed36.dff", "vcs/TXD/underworld.txd");  // seabed36
-    AddSimpleModel(-1, 19379, -2041, "vcs/DFF/seabed37.dff", "vcs/TXD/underworld.txd");  // seabed37
-    AddSimpleModel(-1, 19379, -2042, "vcs/DFF/seabed_shallow09.dff", "vcs/TXD/underworld.txd");  // seabed_shallow09
-    AddSimpleModel(-1, 19379, -2043, "vcs/DFF/seabed_shallow10.dff", "vcs/TXD/underworld.txd");  // seabed_shallow10
+    AddSimpleModel(-1, 19379, -1997, "vcs/DFF/seabed01.dff", "vcs/TXD/underwater.txd");  // seabed01
+    AddSimpleModel(-1, 19379, -1998, "vcs/DFF/seabed02.dff", "vcs/TXD/underwater.txd");  // seabed02
+    AddSimpleModel(-1, 19379, -1999, "vcs/DFF/seabed03.dff", "vcs/TXD/underwater.txd");  // seabed03
+    AddSimpleModel(-1, 19379, -2000, "vcs/DFF/seabed04.dff", "vcs/TXD/underwater.txd");  // seabed04
+    AddSimpleModel(-1, 19379, -2001, "vcs/DFF/seabed05.dff", "vcs/TXD/underwater.txd");  // seabed05
+    AddSimpleModel(-1, 19379, -2002, "vcs/DFF/seabed06.dff", "vcs/TXD/underwater.txd");  // seabed06
+    AddSimpleModel(-1, 19379, -2003, "vcs/DFF/seabed07.dff", "vcs/TXD/underwater.txd");  // seabed07
+    AddSimpleModel(-1, 19379, -2004, "vcs/DFF/seabed08.dff", "vcs/TXD/underwater.txd");  // seabed08
+    AddSimpleModel(-1, 19379, -2005, "vcs/DFF/seabed09.dff", "vcs/TXD/underwater.txd");  // seabed09
+    AddSimpleModel(-1, 19379, -2006, "vcs/DFF/seabed10.dff", "vcs/TXD/underwater.txd");  // seabed10
+    AddSimpleModel(-1, 19379, -2007, "vcs/DFF/seabed11.dff", "vcs/TXD/underwater.txd");  // seabed11
+    AddSimpleModel(-1, 19379, -2008, "vcs/DFF/seabed12.dff", "vcs/TXD/underwater.txd");  // seabed12
+    AddSimpleModel(-1, 19379, -2009, "vcs/DFF/seabed13.dff", "vcs/TXD/underwater.txd");  // seabed13
+    AddSimpleModel(-1, 19379, -2010, "vcs/DFF/seabed14.dff", "vcs/TXD/underwater.txd");  // seabed14
+    AddSimpleModel(-1, 19379, -2011, "vcs/DFF/seabed15.dff", "vcs/TXD/underwater.txd");  // seabed15
+    AddSimpleModel(-1, 19379, -2012, "vcs/DFF/seabed16.dff", "vcs/TXD/underwater.txd");  // seabed16
+    AddSimpleModel(-1, 19379, -2013, "vcs/DFF/seabed17.dff", "vcs/TXD/underwater.txd");  // seabed17
+    AddSimpleModel(-1, 19379, -2014, "vcs/DFF/seabed18.dff", "vcs/TXD/underwater.txd");  // seabed18
+    AddSimpleModel(-1, 19379, -2015, "vcs/DFF/seabed19.dff", "vcs/TXD/underwater.txd");  // seabed19
+    AddSimpleModel(-1, 19379, -2016, "vcs/DFF/seabed20.dff", "vcs/TXD/underwater.txd");  // seabed20
+    AddSimpleModel(-1, 19379, -2017, "vcs/DFF/seabed21.dff", "vcs/TXD/underwater.txd");  // seabed21
+    AddSimpleModel(-1, 19379, -2018, "vcs/DFF/seabed22.dff", "vcs/TXD/underwater.txd");  // seabed22
+    AddSimpleModel(-1, 19379, -2019, "vcs/DFF/seabed23.dff", "vcs/TXD/underwater.txd");  // seabed23
+    AddSimpleModel(-1, 19379, -2020, "vcs/DFF/seabed24.dff", "vcs/TXD/underwater.txd");  // seabed24
+    AddSimpleModel(-1, 19379, -2021, "vcs/DFF/seabed25.dff", "vcs/TXD/underwater.txd");  // seabed25
+    AddSimpleModel(-1, 19379, -2022, "vcs/DFF/seabed26.dff", "vcs/TXD/underwater.txd");  // seabed26
+    AddSimpleModel(-1, 19379, -2023, "vcs/DFF/seabed_shallow01.dff", "vcs/TXD/underwater.txd");  // seabed_shallow01
+    AddSimpleModel(-1, 19379, -2024, "vcs/DFF/seabed_shallow02.dff", "vcs/TXD/underwater.txd");  // seabed_shallow02
+    AddSimpleModel(-1, 19379, -2025, "vcs/DFF/seabed_shallow03.dff", "vcs/TXD/underwater.txd");  // seabed_shallow03
+    AddSimpleModel(-1, 19379, -2026, "vcs/DFF/seabed_shallow04.dff", "vcs/TXD/underwater.txd");  // seabed_shallow04
+    AddSimpleModel(-1, 19379, -2027, "vcs/DFF/seabed_shallow05.dff", "vcs/TXD/underwater.txd");  // seabed_shallow05
+    AddSimpleModel(-1, 19379, -2028, "vcs/DFF/seabed_shallow06.dff", "vcs/TXD/underwater.txd");  // seabed_shallow06
+    AddSimpleModel(-1, 19379, -2029, "vcs/DFF/seabed_shallow07.dff", "vcs/TXD/underwater.txd");  // seabed_shallow07
+    AddSimpleModel(-1, 19379, -2030, "vcs/DFF/seabed_shallow08.dff", "vcs/TXD/underwater.txd");  // seabed_shallow08
+    AddSimpleModel(-1, 19379, -2031, "vcs/DFF/seabed27.dff", "vcs/TXD/underwater.txd");  // seabed27
+    AddSimpleModel(-1, 19379, -2032, "vcs/DFF/seabed28.dff", "vcs/TXD/underwater.txd");  // seabed28
+    AddSimpleModel(-1, 19379, -2033, "vcs/DFF/seabed29.dff", "vcs/TXD/underwater.txd");  // seabed29
+    AddSimpleModel(-1, 19379, -2034, "vcs/DFF/seabed30.dff", "vcs/TXD/underwater.txd");  // seabed30
+    AddSimpleModel(-1, 19379, -2035, "vcs/DFF/seabed31.dff", "vcs/TXD/underwater.txd");  // seabed31
+    AddSimpleModel(-1, 19379, -2036, "vcs/DFF/seabed32.dff", "vcs/TXD/underwater.txd");  // seabed32
+    AddSimpleModel(-1, 19379, -2037, "vcs/DFF/seabed33.dff", "vcs/TXD/underwater.txd");  // seabed33
+    AddSimpleModel(-1, 19379, -2038, "vcs/DFF/seabed34.dff", "vcs/TXD/underwater.txd");  // seabed34
+    AddSimpleModel(-1, 19379, -2039, "vcs/DFF/seabed35.dff", "vcs/TXD/underwater.txd");  // seabed35
+    AddSimpleModel(-1, 19379, -2040, "vcs/DFF/seabed36.dff", "vcs/TXD/underwater.txd");  // seabed36
+    AddSimpleModel(-1, 19379, -2041, "vcs/DFF/seabed37.dff", "vcs/TXD/underwater.txd");  // seabed37
+    AddSimpleModel(-1, 19379, -2042, "vcs/DFF/seabed_shallow09.dff", "vcs/TXD/underwater.txd");  // seabed_shallow09
+    AddSimpleModel(-1, 19379, -2043, "vcs/DFF/seabed_shallow10.dff", "vcs/TXD/underwater.txd");  // seabed_shallow10
     AddSimpleModel(-1, 19379, -2044, "vcs/DFF/littlehabroad.dff", "vcs/TXD/lh_roads1.txd");  // littlehabroad
     AddSimpleModel(-1, 19379, -2045, "vcs/DFF/lithavroad3.dff", "vcs/TXD/lh_roads1.txd");  // lithavroad3
     AddSimpleModel(-1, 19379, -2046, "vcs/DFF/miamiland178.dff", "vcs/TXD/lh_roads1.txd");  // miamiland178
@@ -1540,7 +1539,6 @@ AddVCSModels()
     AddSimpleModel(-1, 19379, -2332, "vcs/DFF/nbeach_s7.dff", "vcs/TXD/nbeachbt_s.txd");  // nbeach_s7
     AddSimpleModel(-1, 19379, -2333, "vcs/DFF/nbeach_s8.dff", "vcs/TXD/nbeachbt_s.txd");  // nbeach_s8
     AddSimpleModel(-1, 19379, -2334, "vcs/DFF/kb_planter+bush.dff", "vcs/TXD/veg_leavesplnt.txd");  // kb_planter+bush
-    AddSimpleModel(-1, 19379, -2335, "vcs/DFF/MTraffic2.dff", "vcs/TXD/mitraffic.txd");  // MTraffic2
     AddSimpleModel(-1, 19379, -2336, "vcs/DFF/veg_palmkb9.dff", "vcs/TXD/new_palm.txd");  // veg_palmkb9
     AddSimpleModel(-1, 19379, -2337, "vcs/DFF/veg_palmkbb11.dff", "vcs/TXD/new_palm.txd");  // veg_palmkbb11
     AddSimpleModel(-1, 19379, -2338, "vcs/DFF/nbeachbt_r1.dff", "vcs/TXD/nbeachbt_r.txd");  // nbeachbt_r1
@@ -3410,241 +3408,241 @@ CreateDynamicObjects()
     CreateDynamicObject(-1098, 6043.55, 1405.73, 13.66, 0.00, -0.00, 0.00, -1, -1, -1, 800.00, 800.00);  // veg_palmkb8.052
     CreateDynamicObject(-1098, 6140.62, 1439.11, 14.68, 0.00, -0.00, 45.00, -1, -1, -1, 800.00, 800.00);  // veg_palmkb8.053
     CreateDynamicObject(-1098, 6140.62, 1447.37, 14.68, 0.00, -0.00, 45.00, -1, -1, -1, 800.00, 800.00);  // veg_palmkb8.054
-    CreateDynamicObject(-1099, 4876.32, 1210.61, 13.86, 0.00, 0.00, -75.20, -1, -1, -1, 800.00, 800.00);  // MTraffic1_L0
-    CreateDynamicObject(-1099, 4808.68, 1214.29, 16.89, 0.00, -0.00, 90.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1
-    CreateDynamicObject(-1099, 4794.12, 1177.92, 16.89, 0.00, -0.00, -180.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.007
-    CreateDynamicObject(-1099, 5130.56, 3360.61, 13.44, 0.00, -0.00, 4.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.014
-    CreateDynamicObject(-1099, 5120.08, 3384.58, 13.85, 0.00, -0.00, -175.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.021
-    CreateDynamicObject(-1099, 5134.48, 3376.29, 13.55, 0.00, -0.00, 94.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.028
-    CreateDynamicObject(-1099, 5230.56, 3386.08, 14.09, -0.00, 0.00, 96.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.035
-    CreateDynamicObject(-1099, 5207.23, 3375.71, 13.67, 0.00, 0.00, -84.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.042
-    CreateDynamicObject(-1099, 5153.35, 3181.82, 12.87, 0.00, -0.00, 90.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.049
-    CreateDynamicObject(-1099, 5223.96, 3370.12, 13.82, 0.00, -0.00, 6.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.056
-    CreateDynamicObject(-1099, 5115.36, 3375.27, 13.65, 0.00, -0.00, 94.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.063
-    CreateDynamicObject(-1099, 5126.31, 3315.13, 13.00, 0.00, -0.00, -180.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.070
-    CreateDynamicObject(-1099, 5118.83, 3300.19, 13.00, 0.00, -0.00, -90.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.077
-    CreateDynamicObject(-1099, 5328.12, 3190.41, 13.09, 0.00, -0.00, 90.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.084
-    CreateDynamicObject(-1099, 5300.02, 3176.00, 13.07, 0.00, -0.00, -90.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.091
-    CreateDynamicObject(-1099, 5309.36, 3165.21, 13.07, 0.00, -0.00, -180.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.098
-    CreateDynamicObject(-1099, 5128.49, 3294.08, 13.00, 0.00, -0.00, 180.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.105
-    CreateDynamicObject(-1099, 5143.28, 3156.67, 12.90, 0.00, -0.00, 0.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.112
-    CreateDynamicObject(-1099, 5342.58, 2751.66, 13.01, 0.00, -0.00, 84.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.119
-    CreateDynamicObject(-1099, 5333.04, 2759.28, 13.01, 0.00, 0.00, -5.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.126
-    CreateDynamicObject(-1099, 5487.50, 2723.20, 12.72, -0.00, 0.00, 157.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.133
-    CreateDynamicObject(-1099, 5480.70, 2732.28, 12.64, 0.00, -0.00, -113.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.140
-    CreateDynamicObject(-1099, 5313.97, 2745.20, 13.01, 0.00, -0.00, -95.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.147
-    CreateDynamicObject(-1099, 5499.01, 2738.29, 12.62, 0.00, 0.00, -24.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.154
-    CreateDynamicObject(-1099, 5135.55, 1726.67, 13.05, 0.00, -0.00, 177.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.161
-    CreateDynamicObject(-1099, 5161.19, 1705.05, 13.08, 0.00, 0.00, -1.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.168
-    CreateDynamicObject(-1099, 5128.84, 1712.44, 13.09, 0.00, -0.00, -90.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.175
-    CreateDynamicObject(-1099, 5205.84, 2002.36, 13.09, 0.00, -0.00, 150.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.182
-    CreateDynamicObject(-1099, 5006.75, 1957.09, 12.64, 0.00, -0.00, -90.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.189
-    CreateDynamicObject(-1099, 5019.95, 1945.98, 12.66, 0.00, -0.00, 0.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.196
-    CreateDynamicObject(-1099, 4936.44, 1920.07, 13.21, 0.00, -0.00, 0.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.203
-    CreateDynamicObject(-1099, 5020.40, 1969.83, 12.70, 0.00, -0.00, 0.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.210
-    CreateDynamicObject(-1099, 5031.99, 1716.48, 12.74, 0.00, -0.00, -90.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.217
-    CreateDynamicObject(-1099, 5007.56, 1716.86, 12.74, 0.00, -0.00, -90.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.224
-    CreateDynamicObject(-1099, 4816.59, 1711.95, 13.43, 0.00, -0.00, 180.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.231
-    CreateDynamicObject(-1099, 4924.29, 1928.17, 13.41, 0.00, -0.00, -90.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.238
-    CreateDynamicObject(-1099, 5019.95, 1854.30, 13.02, 0.00, -0.00, 0.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.245
-    CreateDynamicObject(-1099, 5020.40, 1878.16, 13.21, 0.00, -0.00, 0.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.252
-    CreateDynamicObject(-1099, 4827.86, 1696.20, 13.41, 0.00, 0.00, -86.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.259
-    CreateDynamicObject(-1099, 5006.75, 1865.42, 13.21, 0.00, -0.00, -90.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.266
-    CreateDynamicObject(-1099, 4928.96, 1944.98, 13.43, 0.00, -0.00, 180.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.273
-    CreateDynamicObject(-1099, 5024.69, 1730.12, 12.74, 0.00, -0.00, 0.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.280
-    CreateDynamicObject(-1099, 5207.49, 2301.91, 13.24, 0.00, -0.00, -100.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.287
-    CreateDynamicObject(-1099, 5081.68, 2172.94, 11.37, 0.00, -0.00, 141.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.294
-    CreateDynamicObject(-1099, 4979.29, 2173.35, 13.21, 0.00, -0.00, -108.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.301
-    CreateDynamicObject(-1099, 5181.74, 2306.51, 13.27, 0.00, -0.00, -100.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.308
-    CreateDynamicObject(-1099, 4980.57, 2186.84, 13.21, 0.00, 0.00, -7.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.315
-    CreateDynamicObject(-1099, 5177.57, 2207.00, 12.03, 0.00, -0.00, -93.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.322
-    CreateDynamicObject(-1099, 4972.75, 2165.31, 13.21, 0.00, 0.00, -31.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.329
-    CreateDynamicObject(-1099, 5250.62, 2197.32, 13.22, 0.00, -0.00, -99.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.336
-    CreateDynamicObject(-1099, 5263.03, 2212.93, 13.13, 0.00, -0.00, 170.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.343
-    CreateDynamicObject(-1099, 5269.26, 2290.64, 13.08, 0.00, -0.00, -101.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.350
-    CreateDynamicObject(-1099, 5302.62, 2275.68, 13.07, 0.00, 0.00, -11.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.357
-    CreateDynamicObject(-1099, 5153.11, 2206.60, 11.39, 0.00, 0.00, -83.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.364
-    CreateDynamicObject(-1099, 5281.38, 2303.87, 13.05, 0.00, -0.00, 167.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.371
-    CreateDynamicObject(-1099, 5190.82, 2298.08, 13.13, 0.00, -0.00, 170.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.378
-    CreateDynamicObject(-1099, 5069.31, 2152.41, 11.37, 0.00, -0.00, 151.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.385
-    CreateDynamicObject(-1099, 5165.80, 2223.67, 11.55, 0.00, -0.00, 178.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.392
-    CreateDynamicObject(-1099, 5023.24, 1343.81, 13.46, 0.00, -0.00, -173.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.399
-    CreateDynamicObject(-1099, 4908.42, 1412.89, 13.27, 0.00, 0.00, -83.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.406
-    CreateDynamicObject(-1099, 4916.83, 1425.00, 13.46, 0.00, -0.00, -170.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.413
-    CreateDynamicObject(-1099, 4877.90, 1655.55, 13.02, 0.00, 0.00, -85.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.420
-    CreateDynamicObject(-1099, 4891.76, 1646.45, 13.34, 0.00, -0.00, 8.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.427
-    CreateDynamicObject(-1099, 4823.81, 1661.48, 12.97, 0.00, -0.00, -172.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.434
-    CreateDynamicObject(-1099, 4910.20, 1496.92, 13.27, 0.00, -0.00, 5.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.441
-    CreateDynamicObject(-1099, 4930.05, 1418.89, 13.27, 0.00, -0.00, 96.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.448
-    CreateDynamicObject(-1099, 5009.47, 1437.92, 13.02, -0.00, 0.00, -173.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.455
-    CreateDynamicObject(-1099, 4901.46, 1659.71, 13.40, 0.00, -0.00, 95.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.462
-    CreateDynamicObject(-1099, 5003.36, 1424.71, 13.17, 0.00, 0.00, -80.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.469
-    CreateDynamicObject(-1099, 4836.95, 1653.37, 12.49, 0.00, -0.00, 94.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.476
-    CreateDynamicObject(-1099, 4904.57, 1518.65, 12.77, 0.00, -0.00, -174.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.483
-    CreateDynamicObject(-1099, 5014.21, 1332.16, 13.27, 0.00, 0.00, -86.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.490
-    CreateDynamicObject(-1099, 5188.85, 1342.39, 13.04, 0.00, -0.00, 3.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.497
-    CreateDynamicObject(-1099, 5164.55, 1364.60, 13.04, 0.00, -0.00, -175.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.504
-    CreateDynamicObject(-1099, 4893.73, 1506.60, 13.16, 0.00, 0.00, -81.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.511
-    CreateDynamicObject(-1099, 5156.66, 1349.81, 13.04, 0.00, 0.00, -85.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.518
-    CreateDynamicObject(-1099, 5015.47, 1416.30, 13.40, 0.00, -0.00, 6.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.525
-    CreateDynamicObject(-1099, 4814.07, 1648.58, 12.93, 0.00, 0.00, -85.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.532
-    CreateDynamicObject(-1099, 6440.32, 2897.61, 13.59, 0.00, -0.00, 99.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.539
-    CreateDynamicObject(-1099, 6402.06, 2841.04, 13.73, 0.00, -0.00, -90.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.546
-    CreateDynamicObject(-1099, 6530.38, 2754.62, 13.26, 0.00, -0.00, -93.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.553
-    CreateDynamicObject(-1099, 6366.20, 2842.44, 14.15, 0.00, 0.00, -19.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.560
-    CreateDynamicObject(-1099, 6329.92, 2867.21, 13.59, 0.00, -0.00, 77.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.567
-    CreateDynamicObject(-1099, 6357.73, 2857.13, 13.68, 0.00, -0.00, -109.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.574
-    CreateDynamicObject(-1099, 6522.75, 2931.83, 18.29, 0.00, 0.00, -72.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.581
-    CreateDynamicObject(-1099, 6430.38, 2059.35, 12.92, 0.00, -0.00, 128.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.588
-    CreateDynamicObject(-1099, 6446.64, 2070.42, 13.40, 0.00, 0.00, -44.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.595
-    CreateDynamicObject(-1099, 6461.32, 2088.37, 12.92, 0.00, -0.00, 135.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.602
-    CreateDynamicObject(-1099, 6412.96, 2237.97, 13.10, 0.00, -0.00, 86.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.609
-    CreateDynamicObject(-1099, 6389.95, 2237.26, 12.57, 0.00, -0.00, -94.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.616
-    CreateDynamicObject(-1099, 6303.09, 2244.95, 13.47, 0.00, -0.00, 88.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.623
-    CreateDynamicObject(-1099, 6331.74, 2343.56, 13.67, 0.00, -0.00, -174.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.630
-    CreateDynamicObject(-1099, 6335.86, 2320.67, 13.92, 0.00, -0.00, 5.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.637
-    CreateDynamicObject(-1099, 6333.91, 2399.72, 13.55, 0.00, 0.00, -15.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.644
-    CreateDynamicObject(-1099, 6338.14, 2422.45, 13.15, 0.00, -0.00, 164.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.651
-    CreateDynamicObject(-1099, 6327.25, 2240.84, 13.64, 0.00, -0.00, -92.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.658
-    CreateDynamicObject(-1099, 6278.95, 2243.01, 13.12, 0.00, -0.00, -92.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.665
-    CreateDynamicObject(-1099, 6350.45, 2241.88, 13.16, 0.00, -0.00, 88.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.672
-    CreateDynamicObject(-1099, 6520.32, 2480.83, 13.06, 0.00, -0.00, -99.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.679
-    CreateDynamicObject(-1099, 6442.90, 2236.66, 13.66, 0.00, -0.00, 90.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.686
-    CreateDynamicObject(-1099, 6462.32, 2468.58, 13.67, 0.00, 0.00, -15.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.693
-    CreateDynamicObject(-1099, 6467.00, 2495.13, 13.67, 0.00, -0.00, 165.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.700
-    CreateDynamicObject(-1099, 6452.78, 2482.01, 13.66, 0.00, -0.00, -105.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.707
-    CreateDynamicObject(-1099, 6477.13, 2482.14, 13.67, 0.00, -0.00, 76.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.714
-    CreateDynamicObject(-1099, 6517.84, 2598.70, 13.10, 0.00, -0.00, -90.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.721
-    CreateDynamicObject(-1099, 6400.17, 2661.40, 13.25, 0.00, -0.00, -92.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.728
-    CreateDynamicObject(-1099, 6469.63, 2576.98, 13.61, 0.00, -0.00, -179.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.735
-    CreateDynamicObject(-1099, 6472.30, 2547.66, 13.66, 0.00, -0.00, 1.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.742
-    CreateDynamicObject(-1099, 6459.53, 2561.10, 13.67, 0.00, -0.00, -90.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.749
-    CreateDynamicObject(-1099, 6469.39, 2613.03, 13.48, 0.00, -0.00, -179.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.756
-    CreateDynamicObject(-1099, 6457.91, 2654.54, 13.09, 0.00, -0.00, -93.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.763
-    CreateDynamicObject(-1099, 6482.08, 2602.62, 13.09, 0.00, -0.00, 89.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.770
-    CreateDynamicObject(-1099, 6471.55, 2587.85, 13.09, 0.00, 0.00, -0.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.777
-    CreateDynamicObject(-1099, 6469.94, 2642.83, 13.21, 0.00, 0.00, -4.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.784
-    CreateDynamicObject(-1099, 6435.37, 2668.41, 13.23, 0.00, -0.00, 87.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.791
-    CreateDynamicObject(-1099, 6341.75, 2666.28, 13.30, 0.00, -0.00, -92.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.798
-    CreateDynamicObject(-1099, 6354.50, 2685.24, 13.25, 0.00, -0.00, 176.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.805
-    CreateDynamicObject(-1099, 6380.61, 2652.80, 13.23, 0.00, 0.00, -4.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.812
-    CreateDynamicObject(-1099, 6380.91, 2574.41, 13.66, 0.00, -0.00, -179.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.819
-    CreateDynamicObject(-1099, 6395.95, 2564.85, 13.66, 0.00, -0.00, 90.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.826
-    CreateDynamicObject(-1099, 6383.79, 2548.58, 13.66, 0.00, 0.00, -13.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.833
-    CreateDynamicObject(-1099, 6366.83, 2505.37, 13.66, 0.00, -0.00, 161.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.840
-    CreateDynamicObject(-1099, 6375.55, 2491.07, 13.67, 0.00, -0.00, 73.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.847
-    CreateDynamicObject(-1099, 6360.24, 2479.70, 13.67, 0.00, 0.00, -19.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.854
-    CreateDynamicObject(-1099, 6324.44, 2413.13, 13.16, 0.00, -0.00, -105.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.861
-    CreateDynamicObject(-1099, 6322.34, 2329.98, 13.85, 0.00, 0.00, -83.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.868
-    CreateDynamicObject(-1099, 6482.00, 2095.09, 12.96, 0.00, -0.00, -98.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.875
-    CreateDynamicObject(-1099, 6444.84, 2086.76, 12.95, 0.00, -0.00, -134.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.882
-    CreateDynamicObject(-1099, 6413.90, 2059.54, 12.97, 0.00, -0.00, -140.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.889
-    CreateDynamicObject(-1099, 6295.05, 2232.11, 13.09, 0.00, 0.00, -2.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.896
-    CreateDynamicObject(-1099, 6338.35, 2253.07, 13.21, 0.00, -0.00, 178.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.903
-    CreateDynamicObject(-1099, 6401.65, 2226.01, 12.57, 0.00, 0.00, -5.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.910
-    CreateDynamicObject(-1099, 6430.47, 2248.03, 13.67, 0.00, -0.00, 180.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.917
-    CreateDynamicObject(-1099, 6482.23, 2235.17, 13.10, 0.00, -0.00, -90.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.924
-    CreateDynamicObject(-1099, 6494.51, 2346.73, 13.22, 0.00, -0.00, -103.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.931
-    CreateDynamicObject(-1099, 6439.98, 2357.52, 13.77, 0.00, -0.00, 76.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.938
-    CreateDynamicObject(-1099, 6431.20, 2373.04, 13.66, 0.00, -0.00, 164.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.945
-    CreateDynamicObject(-1099, 6427.15, 2345.80, 13.66, 0.00, 0.00, -6.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.952
-    CreateDynamicObject(-1099, 6387.21, 2172.14, 13.08, 0.00, 0.00, -88.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.959
-    CreateDynamicObject(-1099, 6353.16, 2151.89, 13.43, 0.00, -0.00, 35.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.966
-    CreateDynamicObject(-1099, 6336.50, 2172.42, 13.40, 0.00, -0.00, -144.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.973
-    CreateDynamicObject(-1099, 6353.09, 2171.41, 13.40, 0.00, -0.00, 125.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.980
-    CreateDynamicObject(-1099, 6365.16, 2664.46, 13.09, 0.00, -0.00, -95.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.987
-    CreateDynamicObject(-1099, 6177.84, 1472.55, 13.98, 0.00, -0.00, -179.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.994
-    CreateDynamicObject(-1099, 6181.92, 1532.80, 13.12, 0.00, -0.00, 1.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1001
-    CreateDynamicObject(-1099, 6188.83, 1462.01, 13.98, 0.00, -0.00, 87.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1008
-    CreateDynamicObject(-1099, 6313.49, 1990.31, 13.46, 0.00, -0.00, -139.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1015
-    CreateDynamicObject(-1099, 6329.18, 1971.04, 13.46, 0.00, -0.00, 16.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1022
-    CreateDynamicObject(-1099, 6273.51, 1813.18, 13.18, 0.00, 0.00, -18.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1029
-    CreateDynamicObject(-1099, 6285.65, 1820.19, 13.76, 0.00, -0.00, 74.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1036
-    CreateDynamicObject(-1099, 6275.64, 1831.86, 13.76, 0.00, -0.00, 164.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1043
-    CreateDynamicObject(-1099, 6182.03, 1569.52, 13.08, 0.00, -0.00, 164.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1050
-    CreateDynamicObject(-1099, 6170.43, 1546.57, 13.04, 0.00, -0.00, -93.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1057
-    CreateDynamicObject(-1099, 6177.89, 1450.16, 13.98, 0.00, -0.00, 1.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1064
-    CreateDynamicObject(-1099, 6453.02, 1649.58, 12.16, 0.00, -0.00, 167.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1071
-    CreateDynamicObject(-1099, 6447.82, 1622.60, 12.38, 0.00, 0.00, -17.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1078
-    CreateDynamicObject(-1099, 6443.35, 1597.10, 12.44, 0.00, 0.00, -17.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1085
-    CreateDynamicObject(-1099, 6425.92, 1605.16, 12.18, 0.00, 0.00, -49.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1092
-    CreateDynamicObject(-1099, 6316.66, 1483.16, 11.98, 0.00, -0.00, 55.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1099
-    CreateDynamicObject(-1099, 6305.16, 1478.02, 11.98, 0.00, 0.00, -36.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1106
-    CreateDynamicObject(-1099, 6419.73, 1474.06, 11.98, 0.00, 0.00, -24.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1113
-    CreateDynamicObject(-1099, 6432.68, 1482.33, 12.33, 0.00, -0.00, 65.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1120
-    CreateDynamicObject(-1099, 6426.93, 1494.90, 12.43, 0.00, -0.00, 156.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1127
-    CreateDynamicObject(-1099, 6491.32, 1447.68, 12.99, 0.00, 0.00, -24.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1134
-    CreateDynamicObject(-1099, 6487.24, 1471.92, 13.26, 0.00, -0.00, 161.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1141
-    CreateDynamicObject(-1099, 6473.86, 1462.83, 13.16, 0.00, -0.00, -107.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1148
-    CreateDynamicObject(-1099, 6388.50, 1269.06, 12.90, 0.00, -0.00, -113.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1155
-    CreateDynamicObject(-1099, 6402.74, 1277.81, 13.06, 0.00, -0.00, 154.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1162
-    CreateDynamicObject(-1099, 6402.55, 1252.93, 13.10, 0.00, 0.00, -24.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1169
-    CreateDynamicObject(-1099, 6334.60, 1280.68, 12.11, 0.00, 0.00, -21.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1176
-    CreateDynamicObject(-1099, 6348.94, 1288.53, 12.42, 0.00, -0.00, 64.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1183
-    CreateDynamicObject(-1099, 6340.65, 1300.30, 12.38, 0.00, -0.00, 156.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1190
-    CreateDynamicObject(-1099, 6440.07, 1636.90, 12.26, 0.00, -0.00, -103.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1197
-    CreateDynamicObject(-1099, 6239.08, 696.50, 12.69, 0.00, -0.00, 170.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1204
-    CreateDynamicObject(-1099, 6224.74, 683.28, 12.69, 0.00, -0.00, -100.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1211
-    CreateDynamicObject(-1099, 6282.29, 1030.43, 12.69, 0.00, -0.00, -104.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1218
-    CreateDynamicObject(-1099, 6298.07, 1042.95, 12.69, 0.00, -0.00, 165.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1225
-    CreateDynamicObject(-1099, 6303.03, 1019.77, 12.69, 0.00, 0.00, -14.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1232
-    CreateDynamicObject(-1099, 6236.79, 1051.34, 12.40, 0.00, -0.00, 80.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1239
-    CreateDynamicObject(-1099, 5932.98, 956.13, 12.50, 0.00, -0.00, 9.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1246
-    CreateDynamicObject(-1099, 6211.98, 1050.66, 12.50, 0.00, -0.00, -101.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1253
-    CreateDynamicObject(-1099, 5909.03, 1112.38, 12.50, 0.00, -0.00, 115.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1260
-    CreateDynamicObject(-1099, 6118.97, 1086.11, 12.50, 0.00, -0.00, 58.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1267
-    CreateDynamicObject(-1099, 6107.66, 1082.87, 12.50, 0.00, 0.00, -28.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1274
-    CreateDynamicObject(-1099, 5881.73, 1097.85, 12.50, 0.00, 0.00, -70.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1281
-    CreateDynamicObject(-1099, 6228.10, 1297.29, 12.50, 0.00, -0.00, 169.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1288
-    CreateDynamicObject(-1099, 5947.82, 824.04, 12.50, 0.00, -0.00, -170.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1295
-    CreateDynamicObject(-1099, 6111.54, 1098.95, 12.50, 0.00, -0.00, 147.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1302
-    CreateDynamicObject(-1099, 6063.32, 965.12, 12.65, 0.00, 0.00, -86.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1309
-    CreateDynamicObject(-1099, 6224.00, 1041.57, 12.50, 0.00, 0.00, -7.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1316
-    CreateDynamicObject(-1099, 6073.93, 977.71, 12.50, 0.00, -0.00, -176.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1323
-    CreateDynamicObject(-1099, 5941.05, 970.66, 12.50, 0.00, -0.00, 99.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1330
-    CreateDynamicObject(-1099, 5925.45, 936.17, 12.50, 0.00, -0.00, -168.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1337
-    CreateDynamicObject(-1099, 5971.50, 818.34, 12.50, 0.00, -0.00, 99.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1344
-    CreateDynamicObject(-1099, 5919.36, 910.81, 12.50, 0.00, 0.00, -81.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1351
-    CreateDynamicObject(-1099, 5943.79, 905.38, 12.50, 0.00, -0.00, 15.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1358
-    CreateDynamicObject(-1099, 6077.43, 958.83, 12.50, 0.00, -0.00, 7.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1365
-    CreateDynamicObject(-1099, 5963.79, 805.69, 12.50, 0.00, -0.00, 7.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1372
-    CreateDynamicObject(-1099, 6225.34, 1060.73, 12.50, 0.00, -0.00, 169.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1379
-    CreateDynamicObject(-1099, 5903.91, 1096.46, 12.50, 0.00, -0.00, 16.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1386
-    CreateDynamicObject(-1099, 6085.42, 868.67, 12.50, 0.00, -0.00, 4.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1393
-    CreateDynamicObject(-1099, 6081.93, 887.56, 12.50, 0.00, -0.00, -176.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1400
-    CreateDynamicObject(-1099, 6156.08, 1290.30, 12.50, 0.00, -0.00, 162.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1407
-    CreateDynamicObject(-1099, 6175.68, 1298.07, 12.44, 0.00, -0.00, 74.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1414
-    CreateDynamicObject(-1099, 6094.06, 877.87, 12.65, 0.00, -0.00, 85.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1421
-    CreateDynamicObject(-1099, 6214.75, 1282.59, 12.50, 0.00, -0.00, -108.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1428
-    CreateDynamicObject(-1099, 5989.52, 441.35, 12.51, 0.00, -0.00, 171.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1435
-    CreateDynamicObject(-1099, 6087.94, 428.07, 12.51, 0.00, -0.00, -178.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1442
-    CreateDynamicObject(-1099, 6112.26, 521.60, 12.51, 0.00, 0.00, -2.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1449
-    CreateDynamicObject(-1099, 6093.40, 511.94, 12.51, 0.00, -0.00, -103.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1456
-    CreateDynamicObject(-1099, 6100.37, 504.34, 12.51, 0.00, -0.00, 169.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1463
-    CreateDynamicObject(-1099, 6070.48, 812.89, 12.51, 0.00, -0.00, -96.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1470
-    CreateDynamicObject(-1099, 5997.61, 518.75, 12.51, 0.00, 0.00, -8.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1477
-    CreateDynamicObject(-1099, 6081.34, 800.84, 12.51, 0.00, 0.00, -3.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1484
-    CreateDynamicObject(-1099, 6081.57, 823.67, 12.51, 0.00, -0.00, 177.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1491
-    CreateDynamicObject(-1099, 6183.35, 878.99, 12.51, 0.00, -0.00, 172.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1498
-    CreateDynamicObject(-1099, 6174.68, 865.33, 12.51, 0.00, -0.00, -101.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1505
-    CreateDynamicObject(-1099, 6186.80, 854.90, 12.51, 0.00, 0.00, -8.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1512
-    CreateDynamicObject(-1099, 6047.60, 635.54, 12.51, 0.00, 0.00, -23.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1519
-    CreateDynamicObject(-1099, 5816.57, 727.11, 12.55, 0.00, -0.00, -90.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1526
-    CreateDynamicObject(-1099, 6011.38, 529.00, 12.51, 0.00, -0.00, 77.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1533
-    CreateDynamicObject(-1099, 6002.19, 542.86, 12.51, 0.00, -0.00, 163.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1540
-    CreateDynamicObject(-1099, 6040.13, 649.36, 12.51, 0.00, -0.00, -109.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1547
-    CreateDynamicObject(-1099, 5984.98, 655.07, 12.51, 0.00, -0.00, 86.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1554
-    CreateDynamicObject(-1099, 5954.13, 727.79, 12.55, 0.00, -0.00, -92.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1561
-    CreateDynamicObject(-1099, 5976.86, 716.56, 12.55, 0.00, -0.00, 2.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1568
-    CreateDynamicObject(-1099, 6000.65, 428.39, 12.51, 0.00, -0.00, 81.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1575
-    CreateDynamicObject(-1099, 6054.07, 657.61, 12.51, 0.00, -0.00, 163.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1582
-    CreateDynamicObject(-1099, 5973.08, 642.82, 12.51, 0.00, 0.00, -4.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1589
-    CreateDynamicObject(-1099, 5808.67, 716.15, 12.55, 0.00, -0.00, 0.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1596
-    CreateDynamicObject(-1099, 6099.12, 417.94, 12.51, 0.00, -0.00, 91.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1603
-    CreateDynamicObject(-1099, 5975.79, 420.80, 12.51, 0.00, -0.00, -97.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1610
-    CreateDynamicObject(-1099, 5965.22, 740.05, 12.45, 0.00, -0.00, 179.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1617
-    CreateDynamicObject(-1099, 5963.50, 668.85, 12.55, 0.00, -0.00, 179.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1624
-    CreateDynamicObject(-1099, 5797.06, 740.22, 12.55, 0.00, -0.00, 179.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1631
+    CreateDynamicObject(1283, 4876.32, 1210.61, 13.86, 0.00, 0.00, -75.20, -1, -1, -1, 800.00, 800.00);  // MTraffic1_L0
+    CreateDynamicObject(1283, 4808.68, 1214.29, 16.89, 0.00, -0.00, 90.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1
+    CreateDynamicObject(1283, 4794.12, 1177.92, 16.89, 0.00, -0.00, -180.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.007
+    CreateDynamicObject(1283, 5130.56, 3360.61, 13.44, 0.00, -0.00, 4.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.014
+    CreateDynamicObject(1283, 5120.08, 3384.58, 13.85, 0.00, -0.00, -175.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.021
+    CreateDynamicObject(1283, 5134.48, 3376.29, 13.55, 0.00, -0.00, 94.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.028
+    CreateDynamicObject(1283, 5230.56, 3386.08, 14.09, -0.00, 0.00, 96.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.035
+    CreateDynamicObject(1283, 5207.23, 3375.71, 13.67, 0.00, 0.00, -84.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.042
+    CreateDynamicObject(1283, 5153.35, 3181.82, 12.87, 0.00, -0.00, 90.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.049
+    CreateDynamicObject(1283, 5223.96, 3370.12, 13.82, 0.00, -0.00, 6.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.056
+    CreateDynamicObject(1283, 5115.36, 3375.27, 13.65, 0.00, -0.00, 94.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.063
+    CreateDynamicObject(1283, 5126.31, 3315.13, 13.00, 0.00, -0.00, -180.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.070
+    CreateDynamicObject(1283, 5118.83, 3300.19, 13.00, 0.00, -0.00, -90.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.077
+    CreateDynamicObject(1283, 5328.12, 3190.41, 13.09, 0.00, -0.00, 90.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.084
+    CreateDynamicObject(1283, 5300.02, 3176.00, 13.07, 0.00, -0.00, -90.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.091
+    CreateDynamicObject(1283, 5309.36, 3165.21, 13.07, 0.00, -0.00, -180.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.098
+    CreateDynamicObject(1283, 5128.49, 3294.08, 13.00, 0.00, -0.00, 180.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.105
+    CreateDynamicObject(1283, 5143.28, 3156.67, 12.90, 0.00, -0.00, 0.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.112
+    CreateDynamicObject(1283, 5342.58, 2751.66, 13.01, 0.00, -0.00, 84.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.119
+    CreateDynamicObject(1283, 5333.04, 2759.28, 13.01, 0.00, 0.00, -5.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.126
+    CreateDynamicObject(1283, 5487.50, 2723.20, 12.72, -0.00, 0.00, 157.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.133
+    CreateDynamicObject(1283, 5480.70, 2732.28, 12.64, 0.00, -0.00, -113.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.140
+    CreateDynamicObject(1283, 5313.97, 2745.20, 13.01, 0.00, -0.00, -95.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.147
+    CreateDynamicObject(1283, 5499.01, 2738.29, 12.62, 0.00, 0.00, -24.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.154
+    CreateDynamicObject(1283, 5135.55, 1726.67, 13.05, 0.00, -0.00, 177.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.161
+    CreateDynamicObject(1283, 5161.19, 1705.05, 13.08, 0.00, 0.00, -1.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.168
+    CreateDynamicObject(1283, 5128.84, 1712.44, 13.09, 0.00, -0.00, -90.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.175
+    CreateDynamicObject(1283, 5205.84, 2002.36, 13.09, 0.00, -0.00, 150.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.182
+    CreateDynamicObject(1283, 5006.75, 1957.09, 12.64, 0.00, -0.00, -90.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.189
+    CreateDynamicObject(1283, 5019.95, 1945.98, 12.66, 0.00, -0.00, 0.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.196
+    CreateDynamicObject(1283, 4936.44, 1920.07, 13.21, 0.00, -0.00, 0.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.203
+    CreateDynamicObject(1283, 5020.40, 1969.83, 12.70, 0.00, -0.00, 0.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.210
+    CreateDynamicObject(1283, 5031.99, 1716.48, 12.74, 0.00, -0.00, -90.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.217
+    CreateDynamicObject(1283, 5007.56, 1716.86, 12.74, 0.00, -0.00, -90.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.224
+    CreateDynamicObject(1283, 4816.59, 1711.95, 13.43, 0.00, -0.00, 180.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.231
+    CreateDynamicObject(1283, 4924.29, 1928.17, 13.41, 0.00, -0.00, -90.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.238
+    CreateDynamicObject(1283, 5019.95, 1854.30, 13.02, 0.00, -0.00, 0.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.245
+    CreateDynamicObject(1283, 5020.40, 1878.16, 13.21, 0.00, -0.00, 0.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.252
+    CreateDynamicObject(1283, 4827.86, 1696.20, 13.41, 0.00, 0.00, -86.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.259
+    CreateDynamicObject(1283, 5006.75, 1865.42, 13.21, 0.00, -0.00, -90.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.266
+    CreateDynamicObject(1283, 4928.96, 1944.98, 13.43, 0.00, -0.00, 180.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.273
+    CreateDynamicObject(1283, 5024.69, 1730.12, 12.74, 0.00, -0.00, 0.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.280
+    CreateDynamicObject(1283, 5207.49, 2301.91, 13.24, 0.00, -0.00, -100.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.287
+    CreateDynamicObject(1283, 5081.68, 2172.94, 11.37, 0.00, -0.00, 141.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.294
+    CreateDynamicObject(1283, 4979.29, 2173.35, 13.21, 0.00, -0.00, -108.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.301
+    CreateDynamicObject(1283, 5181.74, 2306.51, 13.27, 0.00, -0.00, -100.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.308
+    CreateDynamicObject(1283, 4980.57, 2186.84, 13.21, 0.00, 0.00, -7.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.315
+    CreateDynamicObject(1283, 5177.57, 2207.00, 12.03, 0.00, -0.00, -93.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.322
+    CreateDynamicObject(1283, 4972.75, 2165.31, 13.21, 0.00, 0.00, -31.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.329
+    CreateDynamicObject(1283, 5250.62, 2197.32, 13.22, 0.00, -0.00, -99.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.336
+    CreateDynamicObject(1283, 5263.03, 2212.93, 13.13, 0.00, -0.00, 170.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.343
+    CreateDynamicObject(1283, 5269.26, 2290.64, 13.08, 0.00, -0.00, -101.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.350
+    CreateDynamicObject(1283, 5302.62, 2275.68, 13.07, 0.00, 0.00, -11.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.357
+    CreateDynamicObject(1283, 5153.11, 2206.60, 11.39, 0.00, 0.00, -83.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.364
+    CreateDynamicObject(1283, 5281.38, 2303.87, 13.05, 0.00, -0.00, 167.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.371
+    CreateDynamicObject(1283, 5190.82, 2298.08, 13.13, 0.00, -0.00, 170.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.378
+    CreateDynamicObject(1283, 5069.31, 2152.41, 11.37, 0.00, -0.00, 151.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.385
+    CreateDynamicObject(1283, 5165.80, 2223.67, 11.55, 0.00, -0.00, 178.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.392
+    CreateDynamicObject(1283, 5023.24, 1343.81, 13.46, 0.00, -0.00, -173.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.399
+    CreateDynamicObject(1283, 4908.42, 1412.89, 13.27, 0.00, 0.00, -83.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.406
+    CreateDynamicObject(1283, 4916.83, 1425.00, 13.46, 0.00, -0.00, -170.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.413
+    CreateDynamicObject(1283, 4877.90, 1655.55, 13.02, 0.00, 0.00, -85.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.420
+    CreateDynamicObject(1283, 4891.76, 1646.45, 13.34, 0.00, -0.00, 8.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.427
+    CreateDynamicObject(1283, 4823.81, 1661.48, 12.97, 0.00, -0.00, -172.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.434
+    CreateDynamicObject(1283, 4910.20, 1496.92, 13.27, 0.00, -0.00, 5.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.441
+    CreateDynamicObject(1283, 4930.05, 1418.89, 13.27, 0.00, -0.00, 96.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.448
+    CreateDynamicObject(1283, 5009.47, 1437.92, 13.02, -0.00, 0.00, -173.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.455
+    CreateDynamicObject(1283, 4901.46, 1659.71, 13.40, 0.00, -0.00, 95.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.462
+    CreateDynamicObject(1283, 5003.36, 1424.71, 13.17, 0.00, 0.00, -80.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.469
+    CreateDynamicObject(1283, 4836.95, 1653.37, 12.49, 0.00, -0.00, 94.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.476
+    CreateDynamicObject(1283, 4904.57, 1518.65, 12.77, 0.00, -0.00, -174.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.483
+    CreateDynamicObject(1283, 5014.21, 1332.16, 13.27, 0.00, 0.00, -86.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.490
+    CreateDynamicObject(1283, 5188.85, 1342.39, 13.04, 0.00, -0.00, 3.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.497
+    CreateDynamicObject(1283, 5164.55, 1364.60, 13.04, 0.00, -0.00, -175.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.504
+    CreateDynamicObject(1283, 4893.73, 1506.60, 13.16, 0.00, 0.00, -81.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.511
+    CreateDynamicObject(1283, 5156.66, 1349.81, 13.04, 0.00, 0.00, -85.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.518
+    CreateDynamicObject(1283, 5015.47, 1416.30, 13.40, 0.00, -0.00, 6.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.525
+    CreateDynamicObject(1283, 4814.07, 1648.58, 12.93, 0.00, 0.00, -85.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.532
+    CreateDynamicObject(1283, 6440.32, 2897.61, 13.59, 0.00, -0.00, 99.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.539
+    CreateDynamicObject(1283, 6402.06, 2841.04, 13.73, 0.00, -0.00, -90.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.546
+    CreateDynamicObject(1283, 6530.38, 2754.62, 13.26, 0.00, -0.00, -93.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.553
+    CreateDynamicObject(1283, 6366.20, 2842.44, 14.15, 0.00, 0.00, -19.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.560
+    CreateDynamicObject(1283, 6329.92, 2867.21, 13.59, 0.00, -0.00, 77.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.567
+    CreateDynamicObject(1283, 6357.73, 2857.13, 13.68, 0.00, -0.00, -109.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.574
+    CreateDynamicObject(1283, 6522.75, 2931.83, 18.29, 0.00, 0.00, -72.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.581
+    CreateDynamicObject(1283, 6430.38, 2059.35, 12.92, 0.00, -0.00, 128.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.588
+    CreateDynamicObject(1283, 6446.64, 2070.42, 13.40, 0.00, 0.00, -44.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.595
+    CreateDynamicObject(1283, 6461.32, 2088.37, 12.92, 0.00, -0.00, 135.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.602
+    CreateDynamicObject(1283, 6412.96, 2237.97, 13.10, 0.00, -0.00, 86.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.609
+    CreateDynamicObject(1283, 6389.95, 2237.26, 12.57, 0.00, -0.00, -94.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.616
+    CreateDynamicObject(1283, 6303.09, 2244.95, 13.47, 0.00, -0.00, 88.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.623
+    CreateDynamicObject(1283, 6331.74, 2343.56, 13.67, 0.00, -0.00, -174.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.630
+    CreateDynamicObject(1283, 6335.86, 2320.67, 13.92, 0.00, -0.00, 5.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.637
+    CreateDynamicObject(1283, 6333.91, 2399.72, 13.55, 0.00, 0.00, -15.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.644
+    CreateDynamicObject(1283, 6338.14, 2422.45, 13.15, 0.00, -0.00, 164.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.651
+    CreateDynamicObject(1283, 6327.25, 2240.84, 13.64, 0.00, -0.00, -92.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.658
+    CreateDynamicObject(1283, 6278.95, 2243.01, 13.12, 0.00, -0.00, -92.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.665
+    CreateDynamicObject(1283, 6350.45, 2241.88, 13.16, 0.00, -0.00, 88.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.672
+    CreateDynamicObject(1283, 6520.32, 2480.83, 13.06, 0.00, -0.00, -99.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.679
+    CreateDynamicObject(1283, 6442.90, 2236.66, 13.66, 0.00, -0.00, 90.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.686
+    CreateDynamicObject(1283, 6462.32, 2468.58, 13.67, 0.00, 0.00, -15.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.693
+    CreateDynamicObject(1283, 6467.00, 2495.13, 13.67, 0.00, -0.00, 165.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.700
+    CreateDynamicObject(1283, 6452.78, 2482.01, 13.66, 0.00, -0.00, -105.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.707
+    CreateDynamicObject(1283, 6477.13, 2482.14, 13.67, 0.00, -0.00, 76.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.714
+    CreateDynamicObject(1283, 6517.84, 2598.70, 13.10, 0.00, -0.00, -90.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.721
+    CreateDynamicObject(1283, 6400.17, 2661.40, 13.25, 0.00, -0.00, -92.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.728
+    CreateDynamicObject(1283, 6469.63, 2576.98, 13.61, 0.00, -0.00, -179.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.735
+    CreateDynamicObject(1283, 6472.30, 2547.66, 13.66, 0.00, -0.00, 1.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.742
+    CreateDynamicObject(1283, 6459.53, 2561.10, 13.67, 0.00, -0.00, -90.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.749
+    CreateDynamicObject(1283, 6469.39, 2613.03, 13.48, 0.00, -0.00, -179.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.756
+    CreateDynamicObject(1283, 6457.91, 2654.54, 13.09, 0.00, -0.00, -93.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.763
+    CreateDynamicObject(1283, 6482.08, 2602.62, 13.09, 0.00, -0.00, 89.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.770
+    CreateDynamicObject(1283, 6471.55, 2587.85, 13.09, 0.00, 0.00, -0.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.777
+    CreateDynamicObject(1283, 6469.94, 2642.83, 13.21, 0.00, 0.00, -4.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.784
+    CreateDynamicObject(1283, 6435.37, 2668.41, 13.23, 0.00, -0.00, 87.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.791
+    CreateDynamicObject(1283, 6341.75, 2666.28, 13.30, 0.00, -0.00, -92.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.798
+    CreateDynamicObject(1283, 6354.50, 2685.24, 13.25, 0.00, -0.00, 176.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.805
+    CreateDynamicObject(1283, 6380.61, 2652.80, 13.23, 0.00, 0.00, -4.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.812
+    CreateDynamicObject(1283, 6380.91, 2574.41, 13.66, 0.00, -0.00, -179.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.819
+    CreateDynamicObject(1283, 6395.95, 2564.85, 13.66, 0.00, -0.00, 90.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.826
+    CreateDynamicObject(1283, 6383.79, 2548.58, 13.66, 0.00, 0.00, -13.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.833
+    CreateDynamicObject(1283, 6366.83, 2505.37, 13.66, 0.00, -0.00, 161.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.840
+    CreateDynamicObject(1283, 6375.55, 2491.07, 13.67, 0.00, -0.00, 73.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.847
+    CreateDynamicObject(1283, 6360.24, 2479.70, 13.67, 0.00, 0.00, -19.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.854
+    CreateDynamicObject(1283, 6324.44, 2413.13, 13.16, 0.00, -0.00, -105.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.861
+    CreateDynamicObject(1283, 6322.34, 2329.98, 13.85, 0.00, 0.00, -83.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.868
+    CreateDynamicObject(1283, 6482.00, 2095.09, 12.96, 0.00, -0.00, -98.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.875
+    CreateDynamicObject(1283, 6444.84, 2086.76, 12.95, 0.00, -0.00, -134.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.882
+    CreateDynamicObject(1283, 6413.90, 2059.54, 12.97, 0.00, -0.00, -140.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.889
+    CreateDynamicObject(1283, 6295.05, 2232.11, 13.09, 0.00, 0.00, -2.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.896
+    CreateDynamicObject(1283, 6338.35, 2253.07, 13.21, 0.00, -0.00, 178.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.903
+    CreateDynamicObject(1283, 6401.65, 2226.01, 12.57, 0.00, 0.00, -5.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.910
+    CreateDynamicObject(1283, 6430.47, 2248.03, 13.67, 0.00, -0.00, 180.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.917
+    CreateDynamicObject(1283, 6482.23, 2235.17, 13.10, 0.00, -0.00, -90.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.924
+    CreateDynamicObject(1283, 6494.51, 2346.73, 13.22, 0.00, -0.00, -103.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.931
+    CreateDynamicObject(1283, 6439.98, 2357.52, 13.77, 0.00, -0.00, 76.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.938
+    CreateDynamicObject(1283, 6431.20, 2373.04, 13.66, 0.00, -0.00, 164.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.945
+    CreateDynamicObject(1283, 6427.15, 2345.80, 13.66, 0.00, 0.00, -6.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.952
+    CreateDynamicObject(1283, 6387.21, 2172.14, 13.08, 0.00, 0.00, -88.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.959
+    CreateDynamicObject(1283, 6353.16, 2151.89, 13.43, 0.00, -0.00, 35.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.966
+    CreateDynamicObject(1283, 6336.50, 2172.42, 13.40, 0.00, -0.00, -144.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.973
+    CreateDynamicObject(1283, 6353.09, 2171.41, 13.40, 0.00, -0.00, 125.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.980
+    CreateDynamicObject(1283, 6365.16, 2664.46, 13.09, 0.00, -0.00, -95.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.987
+    CreateDynamicObject(1283, 6177.84, 1472.55, 13.98, 0.00, -0.00, -179.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.994
+    CreateDynamicObject(1283, 6181.92, 1532.80, 13.12, 0.00, -0.00, 1.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1001
+    CreateDynamicObject(1283, 6188.83, 1462.01, 13.98, 0.00, -0.00, 87.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1008
+    CreateDynamicObject(1283, 6313.49, 1990.31, 13.46, 0.00, -0.00, -139.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1015
+    CreateDynamicObject(1283, 6329.18, 1971.04, 13.46, 0.00, -0.00, 16.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1022
+    CreateDynamicObject(1283, 6273.51, 1813.18, 13.18, 0.00, 0.00, -18.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1029
+    CreateDynamicObject(1283, 6285.65, 1820.19, 13.76, 0.00, -0.00, 74.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1036
+    CreateDynamicObject(1283, 6275.64, 1831.86, 13.76, 0.00, -0.00, 164.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1043
+    CreateDynamicObject(1283, 6182.03, 1569.52, 13.08, 0.00, -0.00, 164.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1050
+    CreateDynamicObject(1283, 6170.43, 1546.57, 13.04, 0.00, -0.00, -93.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1057
+    CreateDynamicObject(1283, 6177.89, 1450.16, 13.98, 0.00, -0.00, 1.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1064
+    CreateDynamicObject(1283, 6453.02, 1649.58, 12.16, 0.00, -0.00, 167.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1071
+    CreateDynamicObject(1283, 6447.82, 1622.60, 12.38, 0.00, 0.00, -17.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1078
+    CreateDynamicObject(1283, 6443.35, 1597.10, 12.44, 0.00, 0.00, -17.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1085
+    CreateDynamicObject(1283, 6425.92, 1605.16, 12.18, 0.00, 0.00, -49.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1092
+    CreateDynamicObject(1283, 6316.66, 1483.16, 11.98, 0.00, -0.00, 55.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1099
+    CreateDynamicObject(1283, 6305.16, 1478.02, 11.98, 0.00, 0.00, -36.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1106
+    CreateDynamicObject(1283, 6419.73, 1474.06, 11.98, 0.00, 0.00, -24.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1113
+    CreateDynamicObject(1283, 6432.68, 1482.33, 12.33, 0.00, -0.00, 65.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1120
+    CreateDynamicObject(1283, 6426.93, 1494.90, 12.43, 0.00, -0.00, 156.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1127
+    CreateDynamicObject(1283, 6491.32, 1447.68, 12.99, 0.00, 0.00, -24.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1134
+    CreateDynamicObject(1283, 6487.24, 1471.92, 13.26, 0.00, -0.00, 161.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1141
+    CreateDynamicObject(1283, 6473.86, 1462.83, 13.16, 0.00, -0.00, -107.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1148
+    CreateDynamicObject(1283, 6388.50, 1269.06, 12.90, 0.00, -0.00, -113.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1155
+    CreateDynamicObject(1283, 6402.74, 1277.81, 13.06, 0.00, -0.00, 154.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1162
+    CreateDynamicObject(1283, 6402.55, 1252.93, 13.10, 0.00, 0.00, -24.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1169
+    CreateDynamicObject(1283, 6334.60, 1280.68, 12.11, 0.00, 0.00, -21.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1176
+    CreateDynamicObject(1283, 6348.94, 1288.53, 12.42, 0.00, -0.00, 64.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1183
+    CreateDynamicObject(1283, 6340.65, 1300.30, 12.38, 0.00, -0.00, 156.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1190
+    CreateDynamicObject(1283, 6440.07, 1636.90, 12.26, 0.00, -0.00, -103.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1197
+    CreateDynamicObject(1283, 6239.08, 696.50, 12.69, 0.00, -0.00, 170.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1204
+    CreateDynamicObject(1283, 6224.74, 683.28, 12.69, 0.00, -0.00, -100.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1211
+    CreateDynamicObject(1283, 6282.29, 1030.43, 12.69, 0.00, -0.00, -104.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1218
+    CreateDynamicObject(1283, 6298.07, 1042.95, 12.69, 0.00, -0.00, 165.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1225
+    CreateDynamicObject(1283, 6303.03, 1019.77, 12.69, 0.00, 0.00, -14.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1232
+    CreateDynamicObject(1283, 6236.79, 1051.34, 12.40, 0.00, -0.00, 80.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1239
+    CreateDynamicObject(1283, 5932.98, 956.13, 12.50, 0.00, -0.00, 9.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1246
+    CreateDynamicObject(1283, 6211.98, 1050.66, 12.50, 0.00, -0.00, -101.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1253
+    CreateDynamicObject(1283, 5909.03, 1112.38, 12.50, 0.00, -0.00, 115.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1260
+    CreateDynamicObject(1283, 6118.97, 1086.11, 12.50, 0.00, -0.00, 58.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1267
+    CreateDynamicObject(1283, 6107.66, 1082.87, 12.50, 0.00, 0.00, -28.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1274
+    CreateDynamicObject(1283, 5881.73, 1097.85, 12.50, 0.00, 0.00, -70.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1281
+    CreateDynamicObject(1283, 6228.10, 1297.29, 12.50, 0.00, -0.00, 169.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1288
+    CreateDynamicObject(1283, 5947.82, 824.04, 12.50, 0.00, -0.00, -170.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1295
+    CreateDynamicObject(1283, 6111.54, 1098.95, 12.50, 0.00, -0.00, 147.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1302
+    CreateDynamicObject(1283, 6063.32, 965.12, 12.65, 0.00, 0.00, -86.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1309
+    CreateDynamicObject(1283, 6224.00, 1041.57, 12.50, 0.00, 0.00, -7.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1316
+    CreateDynamicObject(1283, 6073.93, 977.71, 12.50, 0.00, -0.00, -176.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1323
+    CreateDynamicObject(1283, 5941.05, 970.66, 12.50, 0.00, -0.00, 99.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1330
+    CreateDynamicObject(1283, 5925.45, 936.17, 12.50, 0.00, -0.00, -168.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1337
+    CreateDynamicObject(1283, 5971.50, 818.34, 12.50, 0.00, -0.00, 99.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1344
+    CreateDynamicObject(1283, 5919.36, 910.81, 12.50, 0.00, 0.00, -81.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1351
+    CreateDynamicObject(1283, 5943.79, 905.38, 12.50, 0.00, -0.00, 15.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1358
+    CreateDynamicObject(1283, 6077.43, 958.83, 12.50, 0.00, -0.00, 7.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1365
+    CreateDynamicObject(1283, 5963.79, 805.69, 12.50, 0.00, -0.00, 7.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1372
+    CreateDynamicObject(1283, 6225.34, 1060.73, 12.50, 0.00, -0.00, 169.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1379
+    CreateDynamicObject(1283, 5903.91, 1096.46, 12.50, 0.00, -0.00, 16.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1386
+    CreateDynamicObject(1283, 6085.42, 868.67, 12.50, 0.00, -0.00, 4.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1393
+    CreateDynamicObject(1283, 6081.93, 887.56, 12.50, 0.00, -0.00, -176.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1400
+    CreateDynamicObject(1283, 6156.08, 1290.30, 12.50, 0.00, -0.00, 162.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1407
+    CreateDynamicObject(1283, 6175.68, 1298.07, 12.44, 0.00, -0.00, 74.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1414
+    CreateDynamicObject(1283, 6094.06, 877.87, 12.65, 0.00, -0.00, 85.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1421
+    CreateDynamicObject(1283, 6214.75, 1282.59, 12.50, 0.00, -0.00, -108.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1428
+    CreateDynamicObject(1283, 5989.52, 441.35, 12.51, 0.00, -0.00, 171.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1435
+    CreateDynamicObject(1283, 6087.94, 428.07, 12.51, 0.00, -0.00, -178.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1442
+    CreateDynamicObject(1283, 6112.26, 521.60, 12.51, 0.00, 0.00, -2.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1449
+    CreateDynamicObject(1283, 6093.40, 511.94, 12.51, 0.00, -0.00, -103.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1456
+    CreateDynamicObject(1283, 6100.37, 504.34, 12.51, 0.00, -0.00, 169.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1463
+    CreateDynamicObject(1283, 6070.48, 812.89, 12.51, 0.00, -0.00, -96.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1470
+    CreateDynamicObject(1283, 5997.61, 518.75, 12.51, 0.00, 0.00, -8.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1477
+    CreateDynamicObject(1283, 6081.34, 800.84, 12.51, 0.00, 0.00, -3.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1484
+    CreateDynamicObject(1283, 6081.57, 823.67, 12.51, 0.00, -0.00, 177.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1491
+    CreateDynamicObject(1283, 6183.35, 878.99, 12.51, 0.00, -0.00, 172.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1498
+    CreateDynamicObject(1283, 6174.68, 865.33, 12.51, 0.00, -0.00, -101.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1505
+    CreateDynamicObject(1283, 6186.80, 854.90, 12.51, 0.00, 0.00, -8.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1512
+    CreateDynamicObject(1283, 6047.60, 635.54, 12.51, 0.00, 0.00, -23.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1519
+    CreateDynamicObject(1283, 5816.57, 727.11, 12.55, 0.00, -0.00, -90.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1526
+    CreateDynamicObject(1283, 6011.38, 529.00, 12.51, 0.00, -0.00, 77.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1533
+    CreateDynamicObject(1283, 6002.19, 542.86, 12.51, 0.00, -0.00, 163.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1540
+    CreateDynamicObject(1283, 6040.13, 649.36, 12.51, 0.00, -0.00, -109.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1547
+    CreateDynamicObject(1283, 5984.98, 655.07, 12.51, 0.00, -0.00, 86.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1554
+    CreateDynamicObject(1283, 5954.13, 727.79, 12.55, 0.00, -0.00, -92.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1561
+    CreateDynamicObject(1283, 5976.86, 716.56, 12.55, 0.00, -0.00, 2.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1568
+    CreateDynamicObject(1283, 6000.65, 428.39, 12.51, 0.00, -0.00, 81.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1575
+    CreateDynamicObject(1283, 6054.07, 657.61, 12.51, 0.00, -0.00, 163.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1582
+    CreateDynamicObject(1283, 5973.08, 642.82, 12.51, 0.00, 0.00, -4.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1589
+    CreateDynamicObject(1283, 5808.67, 716.15, 12.55, 0.00, -0.00, 0.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1596
+    CreateDynamicObject(1283, 6099.12, 417.94, 12.51, 0.00, -0.00, 91.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1603
+    CreateDynamicObject(1283, 5975.79, 420.80, 12.51, 0.00, -0.00, -97.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1610
+    CreateDynamicObject(1283, 5965.22, 740.05, 12.45, 0.00, -0.00, 179.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1617
+    CreateDynamicObject(1283, 5963.50, 668.85, 12.55, 0.00, -0.00, 179.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1624
+    CreateDynamicObject(1283, 5797.06, 740.22, 12.55, 0.00, -0.00, 179.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1.1631
     CreateDynamicObject(-1100, 4989.68, 825.59, 14.31, 0.00, 0.00, -32.00, -1, -1, -1, 800.00, 800.00);  // lounger1
     CreateDynamicObject(-1100, 4988.66, 822.66, 14.31, 0.00, 0.00, -13.00, -1, -1, -1, 800.00, 800.00);  // lounger1.001
     CreateDynamicObject(-1100, 4988.49, 819.46, 14.31, 0.00, -0.00, 14.00, -1, -1, -1, 800.00, 800.00);  // lounger1.002
@@ -5974,7 +5972,7 @@ CreateDynamicObjects()
     CreateDynamicObject(-1093, 6947.87, 3497.20, 174.13, 0.00, -0.00, 0.00, -1, -1, -1, 800.00, 800.00);  // phonebooth1_L0.001
     CreateDynamicObject(-1394, 5894.59, 3059.20, 14.60, 0.00, -0.00, -101.00, -1, -1, -1, 800.00, 800.00);  // mlamppost_L0.001
     CreateDynamicObject(-1094, 5507.03, 3085.87, 10.78, 0.00, 0.00, -16.00, -1, -1, -1, 800.00, 800.00);  // Mpostbox1_L0.002
-    CreateDynamicObject(-1099, 5137.90, 3191.96, 13.27, 0.00, -0.00, -180.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1_L0.001
+    CreateDynamicObject(1283, 5137.90, 3191.96, 13.27, 0.00, -0.00, -180.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1_L0.001
     CreateDynamicObject(-1534, 5146.75, 3191.03, 10.82, 0.00, 0.00, -83.00, -1, -1, -1, 800.00, 800.00);  // newstandnew1_L1
     CreateDynamicObject(-1535, 5146.75, 3191.03, 10.82, 0.00, 0.00, -83.00, -1, -1, -1, 800.00, 800.00);  // newstandnew1_L0
     CreateDynamicObject(-1536, 5330.86, 3394.03, 11.62, 0.00, -0.00, -111.00, -1, -1, -1, 800.00, 800.00);  // newstandnew1
@@ -6973,7 +6971,7 @@ CreateDynamicObjects()
     CreateDynamicObject(-1696, 5371.20, 2870.24, 18.55, 0.00, -0.00, 0.00, -1, -1, -1, 800.00, 800.00);  // downtowS_n5
     CreateDynamicObject(-1274, 5321.12, 2526.53, 16.05, 0.00, 0.00, -5.00, -1, -1, -1, 800.00, 800.00);  // lamppost2_L0.002
     CreateDynamicObject(-1394, 5257.97, 2757.86, 14.55, 0.00, -0.00, 90.00, -1, -1, -1, 800.00, 800.00);  // mlamppost_L0.002
-    CreateDynamicObject(-1099, 5323.36, 2737.13, 13.01, 0.00, -0.00, 177.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1_L0.002
+    CreateDynamicObject(1283, 5323.36, 2737.13, 13.01, 0.00, -0.00, 177.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1_L0.002
     CreateDynamicObject(-1256, 5091.52, 2471.46, 9.44, 0.00, -0.00, 70.00, -1, -1, -1, 800.00, 800.00);  // veg_palm02.017
     CreateDynamicObject(-1096, 5594.50, 2908.29, 9.47, 0.00, -0.00, 37.00, -1, -1, -1, 800.00, 800.00);  // veg_palm04.117
     CreateDynamicObject(-1553, 5364.26, 2629.98, 9.77, 0.00, -0.00, 45.00, -1, -1, -1, 800.00, 800.00);  // veg_palmbig14.037
@@ -7570,7 +7568,7 @@ CreateDynamicObjects()
     CreateDynamicObject(-1872, 6140.49, 412.97, 13.26, 0.00, 0.00, -38.50, -1, -1, -1, 800.00, 800.00);  // lamppost1.409
     CreateDynamicObject(-1872, 6236.99, 1076.57, 13.26, 0.00, 0.00, -22.00, -1, -1, -1, 800.00, 800.00);  // lamppost1.412
     CreateDynamicObject(-1253, 4859.98, 1850.39, 14.28, 0.00, -0.00, 180.00, -1, -1, -1, 800.00, 800.00);  // lamppost3_L0.003
-    CreateDynamicObject(-1099, 5191.19, 1994.76, 13.09, 0.00, -0.00, -118.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1_L0.003
+    CreateDynamicObject(1283, 5191.19, 1994.76, 13.09, 0.00, -0.00, -118.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1_L0.003
     CreateDynamicObject(-1093, 4886.86, 1940.21, 11.01, 0.00, -0.00, 0.00, -1, -1, -1, 800.00, 800.00);  // phonebooth1_L0.002
     CreateDynamicObject(-1256, 5231.21, 1963.88, 10.03, 0.00, -0.00, 34.23, -1, -1, -1, 800.00, 800.00);  // veg_palm02.027
     CreateDynamicObject(-1873, 5197.00, 1901.63, 10.03, 0.00, -0.00, 58.93, -1, -1, -1, 800.00, 800.00);  // veg_palm03
@@ -7870,7 +7868,7 @@ CreateDynamicObjects()
     CreateDynamicObject(-1391, 5315.11, 2249.32, 10.03, 0.00, 0.00, -22.82, -1, -1, -1, 800.00, 800.00);  // veg_palwee01.025
     CreateDynamicObject(-1255, 5341.41, 2415.56, 9.13, 0.00, -0.00, -119.99, -1, -1, -1, 800.00, 800.00);  // veg_palwee02.077
     CreateDynamicObject(-1392, 5303.70, 2210.26, 10.03, 0.00, -0.00, -114.50, -1, -1, -1, 800.00, 800.00);  // veg_palwee03.013
-    CreateDynamicObject(-1099, 5070.03, 2168.03, 11.37, 0.00, -0.00, 59.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1_L0.004
+    CreateDynamicObject(1283, 5070.03, 2168.03, 11.37, 0.00, -0.00, 59.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1_L0.004
     CreateDynamicObject(-1987, 4953.56, 2082.28, 1000.00, 0.00, -0.00, 180.00, -1, -1, -1, 800.00, 800.00);  // kingknuts_int
     CreateDynamicObject(-1988, 4953.56, 2082.28, 1000.00, 0.00, -0.00, 180.00, -1, -1, -1, 800.00, 800.00);  // kingknuts_intA
     CreateDynamicObject(-1989, 4954.11, 2082.21, 999.07, 0.00, -0.00, 0.00, -1, -1, -1, 800.00, 800.00);  // kingknuts_mask
@@ -8179,7 +8177,7 @@ CreateDynamicObjects()
     CreateDynamicObject(-1872, 4898.30, 1420.22, 13.49, 0.00, -0.00, 90.00, -1, -1, -1, 800.00, 800.00);  // lamppost1.173
     CreateDynamicObject(-1093, 5171.62, 1527.62, 10.72, 0.00, 0.00, -72.50, -1, -1, -1, 800.00, 800.00);  // phonebooth1_L0.003
     CreateDynamicObject(-1394, 5163.49, 1543.50, 14.50, 0.00, -0.00, 0.00, -1, -1, -1, 800.00, 800.00);  // mlamppost_L0.003
-    CreateDynamicObject(-1099, 5036.12, 1337.03, 13.27, 0.00, -0.00, 93.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1_L0.005
+    CreateDynamicObject(1283, 5036.12, 1337.03, 13.27, 0.00, -0.00, 93.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1_L0.005
     CreateDynamicObject(-1775, 5119.52, 1549.42, 16.61, 0.00, -0.00, 96.50, -1, -1, -1, 800.00, 800.00);  // new_bushtest.006
     CreateDynamicObject(-1091, 5019.27, 1343.80, 11.03, 0.00, -0.00, 90.00, -1, -1, -1, 800.00, 800.00);  // papermachn01_L0.001
     CreateDynamicObject(-1550, 4922.27, 1477.45, 10.79, 0.00, -0.00, 7.50, -1, -1, -1, 800.00, 800.00);  // StoneBench1_L0.001
@@ -8323,31 +8321,31 @@ CreateDynamicObjects()
     CreateDynamicObject(-2334, 6157.30, 704.81, 14.34, 0.00, 0.00, -5.00, -1, -1, -1, 800.00, 800.00);  // kb_planter+bush.013
     CreateDynamicObject(-2334, 6157.99, 711.14, 14.34, 0.00, 0.00, -5.00, -1, -1, -1, 800.00, 800.00);  // kb_planter+bush.014
     CreateDynamicObject(-1394, 6571.28, 2871.64, 17.91, 0.00, -0.00, 6.00, -1, -1, -1, 800.00, 800.00);  // mlamppost_L0.004
-    CreateDynamicObject(-1099, 6437.72, 2759.26, 13.26, 0.00, -0.00, 88.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1_L0.006
-    CreateDynamicObject(-2335, 6508.50, 3005.30, 20.25, 0.00, -0.00, -164.00, -1, -1, -1, 800.00, 800.00);  // MTraffic2_L0
-    CreateDynamicObject(-2335, 6530.17, 2946.30, 19.15, 0.00, -0.00, -157.50, -1, -1, -1, 800.00, 800.00);  // MTraffic2
-    CreateDynamicObject(-2335, 6543.93, 2929.20, 18.49, 0.00, -0.00, 22.50, -1, -1, -1, 800.00, 800.00);  // MTraffic2.007
-    CreateDynamicObject(-2335, 6539.58, 2644.60, 13.32, 0.00, 0.00, -2.50, -1, -1, -1, 800.00, 800.00);  // MTraffic2.014
-    CreateDynamicObject(-2335, 6524.76, 2976.71, 20.20, 0.00, -0.00, 21.50, -1, -1, -1, 800.00, 800.00);  // MTraffic2.021
-    CreateDynamicObject(-2335, 6535.11, 2670.83, 13.21, 0.00, -0.00, 178.50, -1, -1, -1, 800.00, 800.00);  // MTraffic2.028
-    CreateDynamicObject(-2335, 6312.67, 2880.95, 13.42, 0.00, -0.00, 168.00, -1, -1, -1, 800.00, 800.00);  // MTraffic2.035
-    CreateDynamicObject(-2335, 6544.57, 2765.67, 13.17, 0.00, -0.00, 179.50, -1, -1, -1, 800.00, 800.00);  // MTraffic2.042
-    CreateDynamicObject(-2335, 6549.38, 2739.63, 13.33, 0.00, 0.00, -0.50, -1, -1, -1, 800.00, 800.00);  // MTraffic2.049
-    CreateDynamicObject(-2335, 6414.24, 2769.93, 13.42, 0.00, -0.00, 178.00, -1, -1, -1, 800.00, 800.00);  // MTraffic2.056
-    CreateDynamicObject(-2335, 6412.70, 2901.02, 13.61, 0.00, -0.00, -162.00, -1, -1, -1, 800.00, 800.00);  // MTraffic2.063
-    CreateDynamicObject(-2335, 6424.02, 2747.88, 13.34, 0.00, -0.00, 0.00, -1, -1, -1, 800.00, 800.00);  // MTraffic2.070
-    CreateDynamicObject(-2335, 6428.73, 2885.87, 13.53, 0.00, -0.00, 0.00, -1, -1, -1, 800.00, 800.00);  // MTraffic2.077
-    CreateDynamicObject(-2335, 6415.70, 2853.96, 13.83, 0.00, -0.00, 180.00, -1, -1, -1, 800.00, 800.00);  // MTraffic2.084
-    CreateDynamicObject(-2335, 6426.25, 2830.69, 13.77, 0.00, -0.00, 0.00, -1, -1, -1, 800.00, 800.00);  // MTraffic2.091
-    CreateDynamicObject(-2335, 6314.30, 2858.59, 13.19, 0.00, 0.00, -10.00, -1, -1, -1, 800.00, 800.00);  // MTraffic2.098
-    CreateDynamicObject(-2335, 6510.26, 2357.66, 13.15, 0.00, -0.00, 175.00, -1, -1, -1, 800.00, 800.00);  // MTraffic2.105
-    CreateDynamicObject(-2335, 6534.80, 2490.96, 13.16, 0.00, -0.00, 175.00, -1, -1, -1, 800.00, 800.00);  // MTraffic2.112
-    CreateDynamicObject(-2335, 6538.06, 2464.94, 13.01, 0.00, 0.00, -7.50, -1, -1, -1, 800.00, 800.00);  // MTraffic2.119
-    CreateDynamicObject(-2335, 6537.90, 2590.60, 13.08, 0.00, -0.00, 0.00, -1, -1, -1, 800.00, 800.00);  // MTraffic2.126
-    CreateDynamicObject(-2335, 6502.37, 2225.93, 13.58, 0.00, -0.00, 2.50, -1, -1, -1, 800.00, 800.00);  // MTraffic2.133
-    CreateDynamicObject(-2335, 6495.18, 2246.64, 13.19, 0.00, -0.00, 180.00, -1, -1, -1, 800.00, 800.00);  // MTraffic2.140
-    CreateDynamicObject(-2335, 6500.39, 2082.51, 13.42, 0.00, 0.00, -2.50, -1, -1, -1, 800.00, 800.00);  // MTraffic2.147
-    CreateDynamicObject(-2335, 6496.82, 2105.44, 12.99, 0.00, -0.00, 177.50, -1, -1, -1, 800.00, 800.00);  // MTraffic2.154
+    CreateDynamicObject(1283, 6437.72, 2759.26, 13.26, 0.00, -0.00, 88.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1_L0.006
+    CreateDynamicObject(1284, 6508.50, 3005.30, 20.25, 0.00, -0.00, -164.00, -1, -1, -1, 800.00, 800.00);  // MTraffic2_L0
+    CreateDynamicObject(1284, 6530.17, 2946.30, 19.15, 0.00, -0.00, -157.50, -1, -1, -1, 800.00, 800.00);  // MTraffic2
+    CreateDynamicObject(1284, 6543.93, 2929.20, 18.49, 0.00, -0.00, 22.50, -1, -1, -1, 800.00, 800.00);  // MTraffic2.007
+    CreateDynamicObject(1284, 6539.58, 2644.60, 13.32, 0.00, 0.00, -2.50, -1, -1, -1, 800.00, 800.00);  // MTraffic2.014
+    CreateDynamicObject(1284, 6524.76, 2976.71, 20.20, 0.00, -0.00, 21.50, -1, -1, -1, 800.00, 800.00);  // MTraffic2.021
+    CreateDynamicObject(1284, 6535.11, 2670.83, 13.21, 0.00, -0.00, 178.50, -1, -1, -1, 800.00, 800.00);  // MTraffic2.028
+    CreateDynamicObject(1284, 6312.67, 2880.95, 13.42, 0.00, -0.00, 168.00, -1, -1, -1, 800.00, 800.00);  // MTraffic2.035
+    CreateDynamicObject(1284, 6544.57, 2765.67, 13.17, 0.00, -0.00, 179.50, -1, -1, -1, 800.00, 800.00);  // MTraffic2.042
+    CreateDynamicObject(1284, 6549.38, 2739.63, 13.33, 0.00, 0.00, -0.50, -1, -1, -1, 800.00, 800.00);  // MTraffic2.049
+    CreateDynamicObject(1284, 6414.24, 2769.93, 13.42, 0.00, -0.00, 178.00, -1, -1, -1, 800.00, 800.00);  // MTraffic2.056
+    CreateDynamicObject(1284, 6412.70, 2901.02, 13.61, 0.00, -0.00, -162.00, -1, -1, -1, 800.00, 800.00);  // MTraffic2.063
+    CreateDynamicObject(1284, 6424.02, 2747.88, 13.34, 0.00, -0.00, 0.00, -1, -1, -1, 800.00, 800.00);  // MTraffic2.070
+    CreateDynamicObject(1284, 6428.73, 2885.87, 13.53, 0.00, -0.00, 0.00, -1, -1, -1, 800.00, 800.00);  // MTraffic2.077
+    CreateDynamicObject(1284, 6415.70, 2853.96, 13.83, 0.00, -0.00, 180.00, -1, -1, -1, 800.00, 800.00);  // MTraffic2.084
+    CreateDynamicObject(1284, 6426.25, 2830.69, 13.77, 0.00, -0.00, 0.00, -1, -1, -1, 800.00, 800.00);  // MTraffic2.091
+    CreateDynamicObject(1284, 6314.30, 2858.59, 13.19, 0.00, 0.00, -10.00, -1, -1, -1, 800.00, 800.00);  // MTraffic2.098
+    CreateDynamicObject(1284, 6510.26, 2357.66, 13.15, 0.00, -0.00, 175.00, -1, -1, -1, 800.00, 800.00);  // MTraffic2.105
+    CreateDynamicObject(1284, 6534.80, 2490.96, 13.16, 0.00, -0.00, 175.00, -1, -1, -1, 800.00, 800.00);  // MTraffic2.112
+    CreateDynamicObject(1284, 6538.06, 2464.94, 13.01, 0.00, 0.00, -7.50, -1, -1, -1, 800.00, 800.00);  // MTraffic2.119
+    CreateDynamicObject(1284, 6537.90, 2590.60, 13.08, 0.00, -0.00, 0.00, -1, -1, -1, 800.00, 800.00);  // MTraffic2.126
+    CreateDynamicObject(1284, 6502.37, 2225.93, 13.58, 0.00, -0.00, 2.50, -1, -1, -1, 800.00, 800.00);  // MTraffic2.133
+    CreateDynamicObject(1284, 6495.18, 2246.64, 13.19, 0.00, -0.00, 180.00, -1, -1, -1, 800.00, 800.00);  // MTraffic2.140
+    CreateDynamicObject(1284, 6500.39, 2082.51, 13.42, 0.00, 0.00, -2.50, -1, -1, -1, 800.00, 800.00);  // MTraffic2.147
+    CreateDynamicObject(1284, 6496.82, 2105.44, 12.99, 0.00, -0.00, 177.50, -1, -1, -1, 800.00, 800.00);  // MTraffic2.154
     CreateDynamicObject(-1775, 6580.00, 3230.08, 20.14, 0.00, 0.00, -7.50, -1, -1, -1, 800.00, 800.00);  // new_bushtest.009
     CreateDynamicObject(-1093, 6525.26, 2761.75, 11.01, 0.00, -0.00, -90.00, -1, -1, -1, 800.00, 800.00);  // phonebooth1_L0.004
     CreateDynamicObject(-1319, 6137.27, 3006.81, 17.80, 0.00, 0.00, -49.50, -1, -1, -1, 800.00, 800.00);  // Streetlamp1_l0.003
@@ -8629,8 +8627,8 @@ CreateDynamicObjects()
     CreateDynamicObject(-2474, 6151.89, 2725.87, 8.56, 0.00, -0.00, 120.00, -1, -1, -1, 800.00, 800.00);  // lampost_coast.024
     CreateDynamicObject(-1394, 6437.64, 2402.84, 14.80, 0.00, -0.00, 160.00, -1, -1, -1, 800.00, 800.00);  // mlamppost_L0.005
     CreateDynamicObject(-1094, 6388.90, 2244.28, 10.39, 0.00, -0.00, 0.00, -1, -1, -1, 800.00, 800.00);  // Mpostbox1_L0.003
-    CreateDynamicObject(-1099, 6479.90, 2663.14, 13.09, 0.00, -0.00, 88.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1_L0.007
-    CreateDynamicObject(-2335, 6511.89, 2333.31, 13.19, 0.00, 0.00, -7.50, -1, -1, -1, 800.00, 800.00);  // MTraffic2_L0.001
+    CreateDynamicObject(1283, 6479.90, 2663.14, 13.09, 0.00, -0.00, 88.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1_L0.007
+    CreateDynamicObject(1284, 6511.89, 2333.31, 13.19, 0.00, 0.00, -7.50, -1, -1, -1, 800.00, 800.00);  // MTraffic2_L0.001
     CreateDynamicObject(-1775, 6539.10, 2142.20, 14.10, 0.00, -0.00, 107.50, -1, -1, -1, 800.00, 800.00);  // new_bushtest.048
     CreateDynamicObject(-1534, 6354.06, 2246.98, 10.48, 0.00, -0.00, 0.00, -1, -1, -1, 800.00, 800.00);  // newstandnew1_L1.001
     CreateDynamicObject(-1535, 6354.06, 2246.98, 10.48, 0.00, -0.00, 0.00, -1, -1, -1, 800.00, 800.00);  // newstandnew1_L0.001
@@ -9204,7 +9202,7 @@ CreateDynamicObjects()
     CreateDynamicObject(-2670, 6291.40, 1795.18, 10.86, 90.00, 0.00, 18.61, -1, -1, -1, 800.00, 800.00);  // chunder_object01
     CreateDynamicObject(-1254, 6322.14, 1921.62, 11.48, 0.00, -0.00, 0.00, -1, -1, -1, 800.00, 800.00);  // bussign1_L0.006
     CreateDynamicObject(-1315, 6307.91, 1905.73, 15.33, 0.00, 0.00, -14.00, -1, -1, -1, 800.00, 800.00);  // doublestreetlght1_L0
-    CreateDynamicObject(-1099, 6328.87, 1986.65, 13.46, 0.00, -0.00, 122.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1_L0.008
+    CreateDynamicObject(1283, 6328.87, 1986.65, 13.46, 0.00, -0.00, 122.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1_L0.008
     CreateDynamicObject(-2671, 6326.91, 1920.79, 11.49, 0.00, -0.00, 180.00, -1, -1, -1, 800.00, 800.00);  // new_bushsm
     CreateDynamicObject(-2671, 6326.70, 1903.98, 11.49, 0.00, -0.00, -90.00, -1, -1, -1, 800.00, 800.00);  // new_bushsm.001
     CreateDynamicObject(-2671, 6342.42, 1966.05, 11.53, 0.00, -0.00, -90.00, -1, -1, -1, 800.00, 800.00);  // new_bushsm.002
@@ -9454,7 +9452,7 @@ CreateDynamicObjects()
     CreateDynamicObject(-2777, 6134.35, 672.05, 12.23, 0.00, -0.00, -100.00, -1, -1, -1, 800.00, 800.00);  // Streetlamp2.051
     CreateDynamicObject(-1319, 6600.73, 1770.26, 15.38, 0.00, -0.00, 0.00, -1, -1, -1, 800.00, 800.00);  // Streetlamp1_l0.005
     CreateDynamicObject(-1550, 6569.48, 1549.74, 10.69, 0.00, -0.00, 165.00, -1, -1, -1, 800.00, 800.00);  // StoneBench1_L0.002
-    CreateDynamicObject(-1099, 6462.20, 1637.43, 12.16, 0.00, -0.00, 76.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1_L0.009
+    CreateDynamicObject(1283, 6462.20, 1637.43, 12.16, 0.00, -0.00, 76.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1_L0.009
     CreateDynamicObject(-1534, 6569.66, 1469.59, 10.61, 0.00, 0.00, -84.50, -1, -1, -1, 800.00, 800.00);  // newstandnew1_L1.002
     CreateDynamicObject(-1535, 6569.66, 1469.59, 10.61, 0.00, 0.00, -84.50, -1, -1, -1, 800.00, 800.00);  // newstandnew1_L0.002
     CreateDynamicObject(-1537, 6569.59, 1470.35, 10.61, 0.00, 0.00, -84.50, -1, -1, -1, 800.00, 800.00);  // newstandnew2_L1.003
@@ -9680,7 +9678,7 @@ CreateDynamicObjects()
     CreateDynamicObject(-1986, 6275.96, 992.53, 10.73, 0.00, 0.00, -3.00, -1, -1, -1, 800.00, 800.00);  // kb_planter+bush2
     CreateDynamicObject(-1319, 6378.96, 1063.53, 12.59, 0.00, -0.00, 0.00, -1, -1, -1, 800.00, 800.00);  // Streetlamp1_l0.006
     CreateDynamicObject(-1550, 6378.10, 1040.46, 10.69, 0.00, -0.00, -179.50, -1, -1, -1, 800.00, 800.00);  // StoneBench1_L0.003
-    CreateDynamicObject(-1099, 6245.37, 674.12, 12.69, 0.00, 0.00, -10.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1_L0.010
+    CreateDynamicObject(1283, 6245.37, 674.12, 12.69, 0.00, 0.00, -10.00, -1, -1, -1, 800.00, 800.00);  // MTraffic1_L0.010
     CreateDynamicObject(-1984, 6242.89, 774.36, 14.82, 0.00, -0.00, 0.00, -1, -1, -1, 800.00, 800.00);  // kb_canopy_test.041
     CreateDynamicObject(-1985, 6242.85, 774.42, 13.88, 0.00, -0.00, 39.00, -1, -1, -1, 800.00, 800.00);  // kb_chr_tbl_test.031
     CreateDynamicObject(-1776, 6292.26, 1050.10, 10.28, 0.00, -0.00, 162.00, -1, -1, -1, 800.00, 800.00);  // parkbench1_L0.003
@@ -9962,7 +9960,7 @@ CreateDynamicObjects()
     CreateDynamicObject(-1985, 5864.01, 832.33, 12.84, 0.00, -0.00, 26.50, -1, -1, -1, 800.00, 800.00);  // kb_chr_tbl_test
     CreateDynamicObject(-1274, 5837.08, 898.42, 15.76, 0.00, -0.00, 110.00, -1, -1, -1, 800.00, 800.00);  // lamppost2_L0.005
     CreateDynamicObject(-1253, 5978.35, 820.95, 13.27, 0.00, -0.00, 90.00, -1, -1, -1, 800.00, 800.00);  // lamppost3_L0.005
-    CreateDynamicObject(-1099, 5916.84, 976.48, 12.50, 0.00, -0.00, -168.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1_L0.011
+    CreateDynamicObject(1283, 5916.84, 976.48, 12.50, 0.00, -0.00, -168.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1_L0.011
     CreateDynamicObject(-1775, 6198.01, 1267.80, 13.78, 0.00, 0.00, -12.50, -1, -1, -1, 800.00, 800.00);  // new_bushtest.116
     CreateDynamicObject(-1090, 5887.37, 1070.82, 10.89, 0.00, 0.00, -77.50, -1, -1, -1, 800.00, 800.00);  // noparkingsign1_L0.004
     CreateDynamicObject(-1776, 5793.94, 1032.33, 9.83, 0.00, -0.00, 15.00, -1, -1, -1, 800.00, 800.00);  // parkbench1_L0.005
@@ -10381,7 +10379,7 @@ CreateDynamicObjects()
     CreateDynamicObject(-2334, 6156.63, 698.61, 14.32, 0.00, 0.00, -5.00, -1, -1, -1, 800.00, 800.00);  // kb_planter+bush
     CreateDynamicObject(-1274, 5959.66, 556.39, 15.72, 0.00, 0.00, -5.00, -1, -1, -1, 800.00, 800.00);  // lamppost2_L0
     CreateDynamicObject(-1253, 6153.91, 647.71, 13.27, 0.00, -0.00, 172.50, -1, -1, -1, 800.00, 800.00);  // lamppost3_L0
-    CreateDynamicObject(-1099, 6076.81, 405.71, 12.51, 0.00, -0.00, -96.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1_L0.012
+    CreateDynamicObject(1283, 6076.81, 405.71, 12.51, 0.00, -0.00, -96.50, -1, -1, -1, 800.00, 800.00);  // MTraffic1_L0.012
     CreateDynamicObject(-2671, 5867.73, 546.35, 11.25, 0.00, -0.00, -104.00, -1, -1, -1, 800.00, 800.00);  // new_bushsm.040
     CreateDynamicObject(-1775, 5994.61, 402.89, 12.51, 0.00, 0.00, -54.50, -1, -1, -1, 800.00, 800.00);  // new_bushtest.125
     CreateDynamicObject(-2777, 6115.78, 647.52, 12.23, 0.00, -0.00, -100.00, -1, -1, -1, 800.00, 800.00);  // Streetlamp2_l0.002
