@@ -20,7 +20,7 @@
 
 #define FILTERSCRIPT
 
-#include <open.mp> //   Credits to Amir & OMP Team
+#include <a_samp> //   Credits to Amir & OMP Team
 #include <streamer> //  Credits to Incognito - and just in case
 
 #define VCS_RADAR_MODEL_BASE              (-4000)
