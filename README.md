@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/license-GPLv3-blue.svg)](LICENSE)
 
 
-Vice City Stories converted to **open.mp** by **spicybung**. As it currently stands - the number of objects is *incompatible with SAMP 0.3DL*.
+Vice City Stories converted to **SAMP** & **open.mp** by **spicybung**. 
 
 ## Configuration
 
