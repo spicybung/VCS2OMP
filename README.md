@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/license-GPLv3-blue.svg)](LICENSE)
 
 
-This is the Grand Theft Auto: Vice City Stories converted to **San Andreas Multiplayer** & **open.multiplayer** by **spicybung**. 
+This is the Grand Theft Auto: Vice City Stories map converted to **San Andreas Multiplayer** & **open.multiplayer** by **spicybung**. 
 
 ## Configuration
 
