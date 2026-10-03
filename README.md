@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/license-GPLv3-blue.svg)](LICENSE)
 
 
-Vice City Stories converted to **SAMP** & **open.mp** by **spicybung**. 
+This is the Grand Theft Auto: Vice City Stories converted to **San Andreas Multiplayer** & **open.multiplayer** by **spicybung**. 
 
 ## Configuration
 
